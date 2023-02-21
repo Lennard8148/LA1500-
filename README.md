@@ -22,16 +22,16 @@ Wir machen ein Jump and Run auf Unity
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1      |                 |      |                                    |
-|  2     |                 |      |                                    |
-|   3    |                 |      |                                    |
-|    4   |                 |      |                                    |
-|     5  |                 |      |                                    |
-|      6 |                 |      |                                    |
-|7       |                 |      |                                    |
-| 8      |                 |      |                                    |
-|  9     |                 |      |                                    |
-|   10   |                 |      |                                    |
+| 1      |muss|Funktional|ich kann meine figur bewegen|
+|  2     |kann|Funktional|ich kann meine figur aussuchen|
+|   3    |kann|Funktional|ich kann mein level aussuchen|
+|    4   |kann|Funktional|ich kann im menü den hintergrund aussuchen|
+|     5  |muss|Funktional|ich kann im menü das spiel beenden|
+|      6 |kann|Funktional|ich kann die Tastenbelegungen verändern.|
+|7       |kann|Funktional|ich kann die Lautstärke verändern|
+| 8      |kann|Funktional|ich kann aussuchen ob ich zu zweit oder aleine spiele|
+|  9     |kann|Funktional|ich kann meine Spezialfähigkeit|
+|   10   |kann|Funktional|ich kann im Shop spezialfähigkeiten und skins kaufen und freischalten|
 |     11 |                 |      |                                    |
 |12      |                 |      |                                    |
 |  13    |                 |      |                                    |
