@@ -6,7 +6,7 @@ Rhododendron Leoanardo Grigoni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|  21.02.23     | 0.0.1   | Heute haben wir unser Projekt ausgewählt und mit der Projektdokumentation angefangen|
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -14,9 +14,11 @@ Rhododendron Leoanardo Grigoni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein Jump and Run auf Unity
+Wir machen ein Jump and Run game.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+
+Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Programmieren. In diesem Spiel sollte man rennen und Springen können das Spiel sollte in 2 D sein. Es gibt immer Checkpoints für die man aber erst einen Boss Besiegen muss. Wir wollen so viele Level wie möglich machen. Wir wollen auch mit einer für uns neuen Gruppe kennenlernen mit ihnen zu komunizieren und zusammen arbeiten ohne das man dafpr schon mal etwas zusammen gemacht hat.
+
 
 ### 1.2 User Stories
 
@@ -75,10 +77,62 @@ Wir machen ein Jump and Run auf Unity
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| TC-№   | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| ----   | ------------ | ------- | ----------------- |
+| 1      |                 |      |                                    |
+|  2     |                 |      |                                    |
+|   3    |                 |      |                                    |
+|    4   |                 |      |                                    |
+|     5  |                 |      |                                    |
+|      6 |                 |      |                                    |
+|7       |                 |      |                                    |
+| 8      |                 |      |                                    |
+|  9     |                 |      |                                    |
+|   10   |                 |      |                                    |
+|     11 |                 |      |                                    |
+|12      |                 |      |                                    |
+|  13    |                 |      |                                    |
+|    14  |                 |      |                                    |
+|      15|                 |      |                                    |
+|16      |                 |      |                                    |
+|  17    |                 |      |                                    |
+|    18  |                 |      |                                    |
+|      19|                 |      |                                    |
+|20      |                 |      |                                    |
+|  21    |                 |      |                                    |
+|    22  |                 |      |                                    |
+|      23|                 |      |                                    |
+|24      |                 |      |                                    |
+|  25    |                 |      |                                    |
+|    26  |                 |      |                                    |
+|      27|                 |      |                                    |
+|28      |                 |      |                                    |
+|  29    |                 |      |                                    |
+|    30  |                 |      |                                    |
+|      31|                 |      |                                    |
+|32      |                 |      |                                    |
+|  33    |                 |      |                                    |
+|    34  |                 |      |                                    |
+|      35|                 |      |                                    |
+|36      |                 |      |                                    |
+|  37    |                 |      |                                    |
+|    38  |                 |      |                                    |
+|      39|                 |      |                                    |
+|40      |                 |      |                                    |
+|  41    |                 |      |                                    |
+|    42  |                 |      |                                    |
+|      43|                 |      |                                    |
+|44      |                 |      |                                    |
+|  45    |                 |      |                                    |
+|    46  |                 |      |                                    |
+|      47|                 |      |                                    |
+|48      |                 |      |                                    |
+
+
+
+
+
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
