@@ -45,7 +45,7 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |1.1      |Das Spiel ist offen.               |a oder d      |die Figur bewegt sich.                               |
 |2.1     |Das Hauptmenü ist offen.                 |Man klick auf die option im Menü      |Das Figuren Menü geht auf                                    |
 |2.2    |Das Figuren Menü ist offen.                 |man klickt auf die Gegenstände die man ausrüsten will.      |Der Gegenstand wird angezogen   |
-|3.1   |Das Hauptmenü ist offen.                 |Man klickt auf Spielen       |Es öffnet sich ein Fenster.                                    |
+|3.1   |Das Hauptmenü ist offen.                 |Man klickt auf "Spielen"       |Es öffnet sich ein Fenster.                                    |
 |3.2  |Das Level Fentster ist offen.                 |Mann klickt auf das Level das man starten will      |Das Level startet                                    |
 |4.1|Das Hauptmenü ist offen.                 |Man klickt auf den Hintergrund      |Das Hintergrund veränderungs Menü geht auf |
 |4.2|Das Hintergrund-Menü ist offen                 |Man klickt auf den Hintergrund den Man will      |Der Hintergrund verändert sich|
@@ -110,18 +110,18 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       | leonardo          |links laufen              |               |
-|      |       | leonardo          |rechts laufen              |               |
-|      |       | leonardo          |die Map bewegt sich mit dem charakter mit              |               |
-|      |       | leonardo          |springen              |               |
-|      |       | leonardo          |sprinten              |               |
-|      |       | leonardo          |figurenmenü öffnen              |               |
-|      |       | leonardo          |figur verändert sich nach dem menü              |               |
-|      |       | leonardo          |man kann ein Level aussuchen              |               |
-|      |       | leonardo          |Das level ist das ausgesuchte              |               |
-|      |       | leonardo          |das einstellungs Fenster geht auf              |               |
-|      |       | leonardo          |im einstellungs fenster kann man das hintergrundmenü aufmachen              |               |
-|      |       | leonardo          |Man kann die verschiedenen schichten des hintergrunds verändern              |               |
-|      |       | leonardo          |der hintergrund passt sich dem eingestellten hintergrund an              |               |
+| 1.B     |       | leonardo          |rechts laufen              |               |
+| 1.C     |       | leonardo          |die Map bewegt sich mit dem charakter mit              |               |
+| 1.D     |       | leonardo          |springen              |               |
+| 1.E     |       | leonardo          |sprinten              |               |
+| 2.A     |       | leonardo          |figurenmenü öffnen              |               |
+| 2.B     |       | leonardo          |figur verändert sich nach dem menü              |               |
+| 3.A     |       | leonardo          |man kann ein Level aussuchen              |               |
+| 3.B     |       | leonardo          |Das level ist das ausgesuchte              |               |
+| 4.A     |       | leonardo          |das einstellungs Fenster geht auf              |               |
+| 4.B     |       | leonardo          |im einstellungs fenster kann man das hintergrundmenü aufmachen              |               |
+| 4.C     |       | leonardo          |Man kann die verschiedenen schichten des hintergrunds verändern              |               |
+| 4.D     |       | leonardo          |der hintergrund passt sich dem eingestellten hintergrund an              |               |
 |      |       |           |              |               |
 |      |       |           |              |               |
 |      |       |           |              |               |
