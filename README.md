@@ -51,30 +51,26 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 
 | TC-№   | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ----   | ------------ | ------- | ----------------- |
-|1.1      |Das Spiel ist offen.               |a oder d      |die Figur bewegt sich.                               |
+|1.1      |Das Spiel ist offen.               |Tasten eingabe     |Die Figur bewegt sich.                               |
 |2.1     |Das Hauptmenü ist offen.                 |Man klick auf die option im Menü      |Das Figuren Menü geht auf                                    |
-|2.2    |Das Figuren Menü ist offen.                 |man klickt auf die Gegenstände die man ausrüsten will.      |Der Gegenstand wird angezogen   |
-|3.1   |Das Hauptmenü ist offen.                 |Man klickt auf Spielen       |Es öffnet sich ein Fenster.                                    |
-|3.2  |Das Level Fentster ist offen.                 |Mann klickt auf das Level das man starten will      |Das Level startet                                    |
-|4.1|Das Hauptmenü ist offen.                 |Man klickt auf den Hintergrund      |Das Hintergrund veränderungs Menü geht auf |
+|2.2    |Das Figuren Menü ist offen.                 |Man klickt auf die Gegenstände die man ausrüsten will.      |Der Gegenstand wird angezogen   |
+|3.1   |Das Hauptmenü ist offen.                 |Man klickt auf Spielen       |Es öffnet sich ein Fenster mit einer Minimap auf der die Levels sind. |
+|3.2  |Man ist auf der Minimap                 |Mann geht auf die Level Röhre die man will     |Das Level wird gestartet         |
+|4.1| Das Hauptmenü ist offen.                 |Man klickt auf den Hintergrund      |Das Hintergrund veränderungs Menü geht auf |
 |4.2|Das Hintergrund-Menü ist offen                 |Man klickt auf den Hintergrund den Man will      |Der Hintergrund verändert sich|
-|5.1|Das Hauptmenü ist offen.                 |Man klickt auf den "Spiel verlassen" Knopf.      |Das Spiel schliest sich.                                    |
+|5.1|Das Hauptmenü ist offen.                 |Man klickt auf den "Spiel verlassen" Knopf.      |Das Spiel schliest sich.                  |
 |6.1|Das Hauptmenü ist offen.                  |Man klickt auf den "Einstellungen" Knopf      |Es öffnet sich das Einstellungen Fenster          |
 |6.2|Das Einstellungen Fenster ist offen                 |Man klickt auf den "Tastenbelegungen verändern" Knopf.      |Es öffnet sich das Tastenmenü  |
 |6.3|Das Tastenmenü ist offen.|Man klickt auf die Ausgabe die man Belegen will und Klickt auf die Taste die Man benutzen will.|Es steht das die Taste verändert wurde.|
-|12      |                 |      |                                    |
-|  13    |                 |      |                                    |
-|    14  |                 |      |                                    |
-|      15|                 |      |                                    |
-|16      |                 |      |                                    |
-|  17    |                 |      |                                    |
-|    18  |                 |      |                                    |
-|      19|                 |      |                                    |
-|20      |                 |      |                                    |
-|  21    |                 |      |                                    |
-|    22  |                 |      |                                    |
-|      23|                 |      |                                    |
-|24      |                 |      |                                    |
+|7.1    |   Spielgestartet, Hauptmenu ist offen              |  Man geht auf den Lautstärken regler und passt die Lautstärke an    |   Die Lautstärke wird angepass.                                 |
+|8.1    |  Das Spiel ist gestartet, Haupmenu ist offen                | Man geht auf den Knopf "Weiterer Spieler einloggen"     |  Man hat die Möglichkeit einen weiteren Spieler einzuloggen                                  |
+|9.1  |  Spiel ist gestartet, man ist schon weit im Game               | Man nimmt eine Spezialmüze auf      |   Man hat für eine gewisse Zeit eine Spezialeigenschaft.                                 |
+|10.1|  Spiel ist gestartet, Shop offen               |  Man wällt den Skin und oder die Spezialfähigkeit aus und kauft sie sich mit Münzen oder Geld| Man hat Skin und oder Spezialeigenschaft im Inventar.                                    |
+|11.1    |     Spiel ist gestartet, Spiel ist durchgespielt            |  Menu öffnen und auf "Spiel Neustart" drücken    |       Spiel wird neu gestartet                             |
+|12.1    |    Spiel gestartet, in einem Level |  Man Stribt    |      Man spannt am letzen Checkpoint                              |
+|13.1  |    Spiel gestartet, in einem Level am Schluss           |  Man besiegt den Endboss     |    Man kommt in das neue Level             |
+| 14.1|    Spiel gestartet             |   Story gemacht    |        Der User bekommt eine kleine Belonung                            |
+|15.1   |    Spiel gestartet, in einem Level             | Der Spieler nimmt eine Münze auf      |   Diese Münze wird im Menu nacher angezeigt und man kann sie benutzen                                 |
 
 
 
