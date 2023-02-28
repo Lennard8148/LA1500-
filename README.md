@@ -42,10 +42,10 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 
 | TC-№   | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ----   | ------------ | ------- | ----------------- |
-| 1      |                 |      |                                    |
-|  2     |                 |      |                                    |
-|   3    |                 |      |                                    |
-|    4   |                 |      |                                    |
+| 1.1      |Das Spiel ist offen.               |a oder d      |die Figur bewegt sich.                               |
+|  2.1     |Das Menü ist offen.                 |Man klick auf die option im Menü      |Das Figuren Menü geht auf                                    |
+|  2.2    |Das Figuren Menü ist offen.                 |man klickt auf die Gegenstände die man ausrüsten will.      |Der Gegenstand wird angezogen   |
+|    3.1   |Das Menü ist offen.                 |Man klickt auf       |                                    |
 |     5  |                 |      |                                    |
 |      6 |                 |      |                                    |
 |7       |                 |      |                                    |
