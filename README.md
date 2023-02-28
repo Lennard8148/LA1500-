@@ -2,7 +2,7 @@
 
 # Projekt-Dokumentation
 
-Rhododendron Leoanardo Grigoni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
+Rhododendron Leoanardo Grigioni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
