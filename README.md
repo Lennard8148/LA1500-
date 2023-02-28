@@ -7,7 +7,7 @@ Rhododendron Leoanardo Grigoni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |  21.02.23     | 0.0.1   | Heute haben wir unser Projekt ausgewählt und mit der Projektdokumentation angefangen|
-|       | ...     |                                                              |
+|  28.02.23     | 0.0.2     |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -24,16 +24,25 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1      |muss|Funktional|als Spieler kann ich meine figur bewegen|
-|  2     |kann|Funktional|als Spieler kann ich meine figur aussuchen|
-|   3    |kann|Funktional|als Spieler kann ich mein level aussuchen|
-|    4   |kann|Funktional|als Spieler kann ich im menü den hintergrund aussuchen|
-|     5  |muss|Funktional|als Spieler kann ich im menü das spiel beenden|
-|      6 |kann|Funktional|als Spieler kann ich die Tastenbelegungen verändern.|
-|7       |kann|Funktional|als Spieler kann ich die Lautstärke verändern|
-| 8      |kann|Funktional|als Spieler kann ich aussuchen ob ich zu zweit oder aleine spiele|
-|  9     |kann|Funktional|als Spieler kann ich meine Spezialfähigkeit|
-|   10   |kann|Funktional|als Spieler kann ich im Shop spezialfähigkeiten und skins kaufen und freischalten|
+| 1      |muss|     Funktional|     Als User kann ich meine figur bewegen|
+|  2     |kann|     Funktional|     Als User kann ich meine figur aussuchen|
+|   3    |kann|     Funktional|     Als User kann ich mein level aussuchen|
+|    4   |kann|     Funktional|     Als User kann ich im menü den hintergrund aussuchen|
+|     5  |muss|      Funktional|    Als User kann ich im menü das spiel beenden|
+|      6 |kann|     Funktional|     Als User kann ich die Tastenbelegungen verändern.|
+|7       |kann|     Funktional|     Als User kann ich die Lautstärke verändern|
+| 8      |kann|     Funktional|     Als User kann ich aussuchen ob ich zu zweit oder aleine spiele|
+|  9     |kann|     Funktional|     Als User kann ich meine Spezialfähigkeit|
+|   10   |kann|     Funktional|     Als User kann ich im Shop spezialfähigkeiten und skins kaufen und freischalten|
+|11      |muss |   Funktional   |    Als User möchte ich das ich Level mehrmals spielen kann                             |
+|12      |muss|   Funktional   |    Als User möchte ich wenn ich Sterbe bei dem letzten Checkpoint wieder Spannen    |
+|  13    | muss|  Funktional    |    Als User möchte ich wenn ich den Endboss des einen Levels besiegt habe in das nächste Level kommenen|
+|    14  | muss|   Funktional   |    Als User möchte ich das wenn ich die kleinen Story berende eine Belonung bekomme |
+|      15|muss|  Funktional    |    Als User möchte das alle Münzen die ich in einem Run sammle dann bei mir im Menu angezeigt werden|
+
+
+
+
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -45,7 +54,7 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |1.1      |Das Spiel ist offen.               |a oder d      |die Figur bewegt sich.                               |
 |2.1     |Das Hauptmenü ist offen.                 |Man klick auf die option im Menü      |Das Figuren Menü geht auf                                    |
 |2.2    |Das Figuren Menü ist offen.                 |man klickt auf die Gegenstände die man ausrüsten will.      |Der Gegenstand wird angezogen   |
-|3.1   |Das Hauptmenü ist offen.                 |Man klickt auf "Spielen"       |Es öffnet sich ein Fenster.                                    |
+|3.1   |Das Hauptmenü ist offen.                 |Man klickt auf Spielen       |Es öffnet sich ein Fenster.                                    |
 |3.2  |Das Level Fentster ist offen.                 |Mann klickt auf das Level das man starten will      |Das Level startet                                    |
 |4.1|Das Hauptmenü ist offen.                 |Man klickt auf den Hintergrund      |Das Hintergrund veränderungs Menü geht auf |
 |4.2|Das Hintergrund-Menü ist offen                 |Man klickt auf den Hintergrund den Man will      |Der Hintergrund verändert sich|
@@ -66,31 +75,6 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |    22  |                 |      |                                    |
 |      23|                 |      |                                    |
 |24      |                 |      |                                    |
-|  25    |                 |      |                                    |
-|    26  |                 |      |                                    |
-|      27|                 |      |                                    |
-|28      |                 |      |                                    |
-|  29    |                 |      |                                    |
-|    30  |                 |      |                                    |
-|      31|                 |      |                                    |
-|32      |                 |      |                                    |
-|  33    |                 |      |                                    |
-|    34  |                 |      |                                    |
-|      35|                 |      |                                    |
-|36      |                 |      |                                    |
-|  37    |                 |      |                                    |
-|    38  |                 |      |                                    |
-|      39|                 |      |                                    |
-|40      |                 |      |                                    |
-|  41    |                 |      |                                    |
-|    42  |                 |      |                                    |
-|      43|                 |      |                                    |
-|44      |                 |      |                                    |
-|  45    |                 |      |                                    |
-|    46  |                 |      |                                    |
-|      47|                 |      |                                    |
-|48      |                 |      |                                    |
-
 
 
 
@@ -109,31 +93,31 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       | leonardo          |links laufen              |               |
-| 1.B     |       | leonardo          |rechts laufen              |               |
-| 1.C     |       | leonardo          |die Map bewegt sich mit dem charakter mit              |               |
-| 1.D     |       | leonardo          |springen              |               |
-| 1.E     |       | leonardo          |sprinten              |               |
-| 2.A     |       | leonardo          |figurenmenü öffnen              |               |
-| 2.B     |       | leonardo          |figur verändert sich nach dem menü              |               |
-| 3.A     |       | leonardo          |man kann ein Level aussuchen              |               |
-| 3.B     |       | leonardo          |Das level ist das ausgesuchte              |               |
-| 4.A     |       | leonardo          |das einstellungs Fenster geht auf              |               |
-| 4.B     |       | leonardo          |im einstellungs fenster kann man das hintergrundmenü aufmachen              |               |
-| 4.C     |       | leonardo          |Man kann die verschiedenen schichten des hintergrunds verändern              |               |
-| 4.D     |       | leonardo          |der hintergrund passt sich dem eingestellten hintergrund an              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
+| 1.A  |       | leonardo          |Der User kann nach links laufen              |               |
+|  2.A    |       | leonardo          |Der User kann nach rechts laufen              |               |
+|   3.A   |       | leonardo          |Die Map bewegt sich mit dem charakter mit              |               |
+|   4.A   |       | leonardo          |Der User kann springen              |               |
+|   5.A   |       | leonardo          |Der User kann sprinten              |               |
+|   6.A   |       | leonardo          |Der User kann ein Figurenmenü öffnen              |               |
+|   7.A   |       | leonardo          Figur verändert sich nach dem menü              |               |
+|    8.A  |       | leonardo          |Der USer kann ein Level aussuchen              |               |
+|   9.A   |       | leonardo          |Das level ist das ausgesuchte              |               |
+|    10.A  |       | leonardo          |Das einstellungs Fenster geht auf              |               |
+|   11.A   |       | leonardo          |Im einstellungs fenster kann man das hintergrundmenü aufmachen              |               |
+|   12.A   |       | leonardo          |Man kann die verschiedenen schichten des hintergrunds verändern              |               |
+|   13.A   |       | leonardo          |Der hintergrund passt sich dem eingestellten hintergrund an              |               |
+|  14.A    |       |   Lennard        |  Der Karakter kann in eine der Rören gehen um zu einem Level zu gelangen            |               |
+|   15.A   |       |   Lennard        |   Der  Karakter kann auf einer Hinternisse springen         |               |
+|      |       |   Lennard        |   Der Karakter kann über Hinternisse springen           |               |
+|      |       |   Lennard        |    Der Karakter kann unter Hinterniss sliden          |               |
+|      |       |   Lennard        |              |               |
+|      |       |    Lennard       |              |               |
+|      |       |    Lennard       |              |               |
+|      |       |    Lennard       |              |               |
+|      |       |     Lennard      |              |               |
+|      |       |    Lennard       |              |               |
+|      |       |    Lennard       |              |               |
+|      |       |     Lennard      |              |               |
 |      |       |           |              |               |
 |      |       |           |              |               |
 |      |       |           |              |               |
