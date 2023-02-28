@@ -7,7 +7,7 @@ Rhododendron Leoanardo Grigoni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |  21.02.23     | 0.0.1   | Heute haben wir unser Projekt ausgewählt und mit der Projektdokumentation angefangen|
-|  28.02.23     | 0.0.2     |                                                              |
+|  28.02.23     | 0.0.2     |  Heute haben wir an unserer Projekt dokumentation weitergearbeitet. Wir haben uns über Unity informiert und schon die ersten Arbeitspakete erfüllt.                                                           |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -45,13 +45,12 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№   | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ----   | ------------ | ------- | ----------------- |
-|1.1      |Das Spiel ist offen.               |Tasten eingabe     |Die Figur bewegt sich.                               |
+|1.1      |Das Spiel ist offen.               |Tasten Eingabe     |Die Figur bewegt sich.                               |
 |2.1     |Das Hauptmenü ist offen.                 |Man klick auf die option im Menü      |Das Figuren Menü geht auf                                    |
 |2.2    |Das Figuren Menü ist offen.                 |Man klickt auf die Gegenstände die man ausrüsten will.      |Der Gegenstand wird angezogen   |
 |3.1   |Das Hauptmenü ist offen.                 |Man klickt auf Spielen       |Es öffnet sich ein Fenster mit einer Minimap auf der die Levels sind. |
@@ -77,7 +76,7 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
@@ -91,53 +90,53 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       | leonardo          |Der User kann nach links laufen              |               |
 |  2.A    |       | leonardo          |Der User kann nach rechts laufen              |               |
-|   3.A   |       | leonardo          |Die Map bewegt sich mit dem Charakter mit              |               |
+|   3.A   |       | leonardo          |Die Map bewegt sich mit dem charakter mit              |               |
 |   4.A   |       | leonardo          |Der User kann springen              |               |
 |   5.A   |       | leonardo          |Der User kann sprinten              |               |
 |   6.A   |       | leonardo          |Der User kann ein Figurenmenü öffnen              |               |
-|   7.A   |       | leonardo          |Figur verändert sich nach dem Menü              |               |
+|   7.A   |       | leonardo          |Figur verändert sich nach dem menü              |               |
 |    8.A  |       | leonardo          |Der User kann ein Level aussuchen              |               |
-|   9.A   |       | leonardo          |Das Level ist das ausgesuchte              |               |
+|   9.A   |       | leonardo          |Das level ist das ausgesuchte              |               |
 |    10.A  |       | leonardo          |Das einstellungs Fenster geht auf              |               |
-|   11.A   |       | leonardo          |Im einstellungs Fenster kann man das Hintergrundmenü aufmachen              |               |
-|   12.A   |       | leonardo          |Man kann die verschiedenen Schichten des Hintergrunds verändern              |               |
-|   13.A   |       | leonardo          |Der Hintergrund passt sich dem eingestellten Hintergrund an              |               |
-|  14.A    |       |   Lennard        |  Der Charakter kann in eine der Röhren gehen um zu einem Level zu gelangen            |               |
-|   15.A   |       |   Lennard        |   Der  Charakter kann auf ein Hindernis springen         |               |
-|      |       |   Lennard        |   Der Charakter kann über Hindernisse springen           |               |
-|      |       |   Lennard        |    Der Charakter kann unter Hindernissen sliden          |               |
-|      |       |   Lennard        |              |               |
-|      |       |    Lennard       |              |               |
-|      |       |    Lennard       |              |               |
-|      |       |    Lennard       |              |               |
-|      |       |     Lennard      |              |               |
-|      |       |    Lennard       |              |               |
-|      |       |    Lennard       |              |               |
-|      |       |     Lennard      |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
+|   11.A   |       | leonardo          |Im einstellungs fenster kann man das hintergrundmenü aufmachen              |               |
+|   12.A   |       | leonardo          |Man kann die verschiedenen schichten des hintergrunds verändern              |               |
+|   13.A   |       | leonardo          |Der hintergrund passt sich dem eingestellten hintergrund an              |               |
+|  14.A    |       |   Lennard        |  Der Karakter kann in eine der Rören gehen um zu einem Level zu gelangen            |               |
+|   15.A   |       |   Lennard        |   Der  Karakter kann auf einer Hinternisse springen         |               |
+|  16.A    |       |   Lennard        |   Der Karakter kann über Hinternisse springen           |               |
+|   17.A   |       |   Lennard        |    Der Karakter kann unter Hinterniss sliden          |               |
+|  18.A    |       |   Lennard        |   Der Karakter kann sich in der Minimap nach Linkts bewegen        |               |
+|   19.A   |       |    Lennard       |  Der Karakter kann sich in der Minimap nach Rechts bewegen             |               |
+|   20.A   |       |    Lennard       |  Der Karakter kann  in der Minimap zu einwm Level gehen            |               |
+|  21.A    |       |    Lennard       |   Der Karakter kann in der Minimap in ein Level gehen indem er in die Röhre vor dem Level Springt  |   |
+|   22.A   |       |     Lennard      |  Der User kann auf einer Fligenden Platform landen             |               |
+|  23.A    |       |    Lennard       |  Der User kann sich auf einer Fligenden Platform bewegen           |               |
+|   24.A   |       |    Lennard       | Der User kann Specialmünzen aufsammeln             |               |
+|   25.A   |       |     Lennard      |  Der User kann Münzen aufsammeln        |               |
+|   26.A   |       |     Marek      |    Der User kann im Shop Skins kaufen          |               |
+|   27.A   |       |     Marek      |   Es gibt verschiedene Ebenen im Hintergrund mit verschiedenen Sachen drauf (Wolekn, Berge, Häuser etc.)|       |
+|  28.A    |       |     Marek      |   Es Spannen Münzen in den Levels           |               |
+|   29.A   |       |    Marek       |              |               |
+|   30.A   |       |     Marek      |              |               |
+|  31.A    |       |     Marek      |              |               |
+|   32.A   |       |     Marek      |              |               |
+|  33.A    |       |    Marek       |              |               |
+|   34.A   |       |    Marek       |              |               |
+|  35.A    |       |    Marek       |              |               |
+|   36.A   |       |    Marek       |              |               |
+|   37.A   |       |     Dorian     |    Der Spieler kann eine Specialeigenschaft von einer Münze nur eine gewisse Zeit haben          |               |
+|   38.A   |       |      Dorian    |   Der User kann im Shop mit Geld Münzen Kaufen           |               |
+|   39.A   |       |     Dorian     |    Der User kann im Shop specialeigenschaften kaufen          |               |
+|   40.A   |       |    Dorian      |   Der User hat verschiendene Levels zum Spielen           |               |
+|   41.A   |       |    Dorian      |  Der User hat eine Minimap auf der die Levels sind             |               |
+|   42.A   |       |    Dorian      |              |               |
+|   43.A   |       |    Dorian      |              |               |
+|  44.A    |       |    Dorian      |              |               |
+|  45.A    |       |    Dorian      |              |               |
+|   46.A   |       |    Dorian      |              |               |
+|   47.A   |       |    Dorian      |              |               |
+|   48.A   |       |    Dorian      |              |               |
+
 
 Total: 
 
@@ -146,9 +145,8 @@ Total:
 ✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
-1: Wir wollten zu erst ein Koch Spiel machen bei dem man die Zutaten hin und her schiebt aber da niemand von Unity eine Ahnung hatte, haben wir uns entschieden etwas zu machen das mehr mainstream ist und mehr Tutorials hat.
 
-2: Wir haben uns dazu entschieden das ganze Spiel mit grossen Pixel zu gestalten damit wir eine Resolution haben die Fest ist und damit man Es auf tiefer Grafik spielen kann.
+✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 ## 4 Realisieren
 
