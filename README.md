@@ -103,9 +103,9 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |   12.A   |       | leonardo          |Man kann die verschiedenen Schichten des Hintergrunds verändern              |               |
 |   13.A   |       | leonardo          |Der Hintergrund passt sich dem eingestellten Hintergrund an              |               |
 |  14.A    |       |   Lennard        |  Der Charakter kann in eine der Röhren gehen um zu einem Level zu gelangen            |               |
-|   15.A   |       |   Lennard        |   Der  Charakter kann auf ein Hinterniss springen         |               |
-|      |       |   Lennard        |   Der Charakter kann über Hinternisse springen           |               |
-|      |       |   Lennard        |    Der Charakter kann unter Hinternissen sliden          |               |
+|   15.A   |       |   Lennard        |   Der  Charakter kann auf ein Hindernis springen         |               |
+|      |       |   Lennard        |   Der Charakter kann über Hindernisse springen           |               |
+|      |       |   Lennard        |    Der Charakter kann unter Hindernissen sliden          |               |
 |      |       |   Lennard        |              |               |
 |      |       |    Lennard       |              |               |
 |      |       |    Lennard       |              |               |
