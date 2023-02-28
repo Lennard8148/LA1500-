@@ -147,6 +147,7 @@ Total:
 
 ## 3 Entscheiden
 1: Wir wollten zu erst ein Koch Spiel machen bei dem man die Zutaten hin und her schiebt aber da niemand von Unity eine Ahnung hatte, haben wir uns entschieden etwas zu machen das mehr mainstream ist und mehr Tutorials hat.
+
 2: Wir haben uns dazu entschieden das ganze Spiel mit grossen Pixel zu gestalten damit wir eine Resolution haben die Fest ist und damit man Es auf tiefer Grafik spielen kann.
 
 ## 4 Realisieren
