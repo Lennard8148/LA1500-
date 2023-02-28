@@ -109,8 +109,55 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       | leonardo          |links laufen              |               |
+|      |       | leonardo          |rechts laufen              |               |
+|      |       | leonardo          |die Map bewegt sich mit dem charakter mit              |               |
+|      |       | leonardo          |springen              |               |
+|      |       | leonardo          |sprinten              |               |
+|      |       | leonardo          |figurenmenü öffnen              |               |
+|      |       | leonardo          |figur verändert sich nach dem menü              |               |
+|      |       | leonardo          |man kann ein Level aussuchen              |               |
+|      |       | leonardo          |Das level ist das ausgesuchte              |               |
+|      |       | leonardo          |das einstellungs Fenster geht auf              |               |
+|      |       | leonardo          |im einstellungs fenster kann man das hintergrundmenü aufmachen              |               |
+|      |       | leonardo          |Man kann die verschiedenen schichten des hintergrunds verändern              |               |
+|      |       | leonardo          |der hintergrund passt sich dem eingestellten hintergrund an              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
+|      |       |           |              |               |
 
 Total: 
 
