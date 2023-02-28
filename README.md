@@ -146,8 +146,8 @@ Total:
 ✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
-
-1:Wir haben uns dazu entschieden das ganze Spiel mit grossen Pixel zu gestalten damit wir eine Resolution haben die Fest ist und damit man Es auf tiefer Grafik spielen kann.
+1: Wir wollten zu erst ein Koch Spiel machen bei dem man die Zutaten hin und her schiebt aber da niemand von Unity eine Ahnung hatte, haben wir uns entschieden etwas zu machen das mehr mainstream ist und mehr Tutorials hat.
+2: Wir haben uns dazu entschieden das ganze Spiel mit grossen Pixel zu gestalten damit wir eine Resolution haben die Fest ist und damit man Es auf tiefer Grafik spielen kann.
 
 ## 4 Realisieren
 
