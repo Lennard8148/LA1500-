@@ -96,7 +96,7 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |   5.A   |       | leonardo          |Der User kann sprinten              |               |
 |   6.A   |       | leonardo          |Der User kann ein Figurenmenü öffnen              |               |
 |   7.A   |       | leonardo          |Figur verändert sich nach dem menü              |               |
-|    8.A  |       | leonardo          |Der USer kann ein Level aussuchen              |               |
+|    8.A  |       | leonardo          |Der User kann ein Level aussuchen              |               |
 |   9.A   |       | leonardo          |Das level ist das ausgesuchte              |               |
 |    10.A  |       | leonardo          |Das einstellungs Fenster geht auf              |               |
 |   11.A   |       | leonardo          |Im einstellungs fenster kann man das hintergrundmenü aufmachen              |               |
