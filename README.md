@@ -89,53 +89,53 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       | leonardo          |Der User kann nach links laufen              |               |
-|  2.A    |       | leonardo          |Der User kann nach rechts laufen              |               |
-|   3.A   |       | leonardo          |Die Map bewegt sich mit dem charakter mit              |               |
-|   4.A   |       | leonardo          |Der User kann springen              |               |
-|   5.A   |       | leonardo          |Der User kann sprinten              |               |
-|   6.A   |       | leonardo          |Der User kann ein Figurenmenü öffnen              |               |
-|   7.A   |       | leonardo          |Figur verändert sich nach dem menü              |               |
-|    8.A  |       | leonardo          |Der User kann ein Level aussuchen              |               |
-|   9.A   |       | leonardo          |Das level ist das ausgesuchte              |               |
-|    10.A  |       | leonardo          |Das einstellungs Fenster geht auf              |               |
-|   11.A   |       | leonardo          |Im einstellungs fenster kann man das hintergrundmenü aufmachen              |               |
-|   12.A   |       | leonardo          |Man kann die verschiedenen schichten des hintergrunds verändern              |               |
-|   13.A   |       | leonardo          |Der hintergrund passt sich dem eingestellten hintergrund an              |               |
-|  14.A    |       |   Lennard        |  Der Karakter kann in eine der Rören gehen um zu einem Level zu gelangen            |               |
-|   15.A   |       |   Lennard        |   Der  Karakter kann auf einer Hinternisse springen         |               |
-|  16.A    |       |   Lennard        |   Der Karakter kann über Hinternisse springen           |               |
-|   17.A   |       |   Lennard        |    Der Karakter kann unter Hinterniss sliden          |               |
-|  18.A    |       |   Lennard        |   Der Karakter kann sich in der Minimap nach Linkts bewegen        |               |
-|   19.A   |       |    Lennard       |  Der Karakter kann sich in der Minimap nach Rechts bewegen             |               |
-|   20.A   |       |    Lennard       |  Der Karakter kann  in der Minimap zu einwm Level gehen            |               |
-|  21.A    |       |    Lennard       |   Der Karakter kann in der Minimap in ein Level gehen indem er in die Röhre vor dem Level Springt  |   |
-|   22.A   |       |     Lennard      |  Der User kann auf einer Fligenden Platform landen             |               |
-|  23.A    |       |    Lennard       |  Der User kann sich auf einer Fligenden Platform bewegen           |               |
-|   24.A   |       |    Lennard       | Der User kann Specialmünzen aufsammeln             |               |
+|  2.A    |       | Leonardo          |Der User kann nach rechts laufen              |               |
+|   3.A   |       | Leonardo          |Die Map bewegt sich mit dem Charakter mit              |               |
+|   4.A   |       | Leonardo          |Der User kann springen              |               |
+|   5.A   |       | Leonardo          |Der User kann sprinten              |               |
+|   6.A   |       | Leonardo          |Der User kann ein Figurenmenü öffnen              |               |
+|   7.A   |       | Leonardo          |Figur verändert sich nach dem Menü              |               |
+|    8.A  |       | Leonardo          |Der User kann ein Level aussuchen              |               |
+|   9.A   |       | Leonardo          |Das Level ist das ausgesuchte              |               |
+|    10.A  |       | Leonardo          |Das einstellungs Fenster geht auf              |               |
+|   11.A   |       | Leonardo          |Im einstellungs Fenster kann man das Hintergrundmenü aufmachen              |               |
+|   12.A   |       | Leonardo          |Man kann die verschiedenen Schichten des Hintergrunds verändern              |               |
+|   13.A   |       | Leonardo          |Der Hintergrund passt sich dem eingestellten Hintergrund an              |               |
+|  14.A    |       |   Lennard        |  Der Charakter kann in eine der Röhren gehen um zu einem Level zu gelangen            |               |
+|   15.A   |       |   Lennard        |   Der  Charakter kann auf ein Hindernis springen         |               |
+|  16.A    |       |   Lennard        |   Der Charakter kann über Hindernisse springen           |               |
+|   17.A   |       |   Lennard        |    Der Charakter kann unter Hindernissen hindurchsliden          |               |
+|  18.A    |       |   Lennard        |   Der Charakter kann sich in der Weltenauswahl nach Links bewegen        |               |
+|   19.A   |       |    Lennard       |  Der Charakter kann sich in der Weltenauswahl nach Rechts bewegen             |               |
+|   20.A   |       |    Lennard       |  Der Charakter kann in der Weltenauswahl zu einem Level gehen            |               |
+|  21.A    |       |    Lennard       |   Der Charakter kann in der Weltenauswahl in ein Level gehen, indem er in die Röhre vor dem Level springt  |   |
+|   22.A   |       |     Lennard      |  Der User kann auf einer fligenden Plattform landen             |               |
+|  23.A    |       |    Lennard       |  Der User kann sich auf einer fligenden Plattform bewegen           |               |
+|   24.A   |       |    Lennard       | Der User kann Spezialmünzen aufsammeln             |               |
 |   25.A   |       |     Lennard      |  Der User kann Münzen aufsammeln        |               |
 |   26.A   |       |     Marek      |    Der User kann im Shop Skins kaufen          |               |
-|   27.A   |       |     Marek      |   Es gibt verschiedene Ebenen im Hintergrund mit verschiedenen Sachen drauf (Wolekn, Berge, Häuser etc.)|       |
-|  28.A    |       |     Marek      |   Es Spannen Münzen in den Levels           |               |
-|   29.A   |       |    Marek       |              |               |
-|   30.A   |       |     Marek      |              |               |
-|  31.A    |       |     Marek      |              |               |
-|   32.A   |       |     Marek      |              |               |
-|  33.A    |       |    Marek       |              |               |
-|   34.A   |       |    Marek       |              |               |
-|  35.A    |       |    Marek       |              |               |
-|   36.A   |       |    Marek       |              |               |
-|   37.A   |       |     Dorian     |    Der Spieler kann eine Specialeigenschaft von einer Münze nur eine gewisse Zeit haben          |               |
-|   38.A   |       |      Dorian    |   Der User kann im Shop mit Geld Münzen Kaufen           |               |
-|   39.A   |       |     Dorian     |    Der User kann im Shop specialeigenschaften kaufen          |               |
+|   27.A   |       |     Marek      |   Im Hintergrund gibt es eine Ebene für Wolken|       |
+|  28.A    |       |     Marek      |   Im Hintergrund gibt es eine Ebene für Berge         |               |
+|   29.A   |       |    Marek       |   Im Hintergrund gibt es eine Ebene für Häuser           |               |
+|   30.A   |       |     Marek      |   Im Hintergrund gibt es eine Ebene für den Himmel           |               |
+|  31.A    |       |     Marek      |   Im Vordergrund gibt es eine Ebene für Gras und kleinere Details           |               |
+|   32.A   |       |     Marek      |   In den Levels sollen Münzen erscheinen.           |               |
+|  33.A    |       |    Marek       |   Nach einem Kauf einer Charaktervariante soll der aktuelle Charakter mit dieser ersetzt werden           |               |
+|   34.A   |       |    Marek       |   Der Spieler kann seine Charaktervarianten im Hauptmenü oder in der Levelauswahl auswählen.          |               |
+|  35.A    |       |    Marek       |    Es erscheinen Münzen in den Levels         |               |
+|   36.A   |       |    Marek       |    Die Anzahl eingesammelter Münzen wird während dem Spiel angezeigt.          |               |
+|   37.A   |       |     Dorian     |    Spezialeigenschaften von eingesammelten Münzen sind auf eine gewisse Zeitdauer beschränkt.          |               |
+|   38.A   |       |      Dorian    |    Der Shop wird gepixelt.          |               |
+|   39.A   |       |     Dorian     |    Der User kann im Shop Spezialeigenschaften kaufen          |               |
 |   40.A   |       |    Dorian      |   Der User hat verschiendene Levels zum Spielen           |               |
-|   41.A   |       |    Dorian      |  Der User hat eine Minimap auf der die Levels sind             |               |
-|   42.A   |       |    Dorian      |              |               |
-|   43.A   |       |    Dorian      |              |               |
-|  44.A    |       |    Dorian      |              |               |
-|  45.A    |       |    Dorian      |              |               |
-|   46.A   |       |    Dorian      |              |               |
-|   47.A   |       |    Dorian      |              |               |
-|   48.A   |       |    Dorian      |              |               |
+|   41.A   |       |    Dorian      |  Der User hat eine Weltenauswahl auf der die Levels sind             |               |
+|   42.A   |       |    Dorian      |  Der Rumpf des Charakters wird gepixelt.            |               |
+|   43.A   |       |    Dorian      |  Der Kopf des Charakters wird gepixelt.            |               |
+|  44.A    |       |    Dorian      |  Die Beine des Charakters werden gepixelt.            |               |
+|  45.A    |       |    Dorian      |  Die Arme des Charakters werden gepixelt.            |               |
+|   46.A   |       |    Dorian      |  Die animation für das Schleichen des Charakters wird gepixelt.           |               |
+|   47.A   |       |    Dorian      |  Die animation für das sliden des Charakters wird gepixelt.            |               |
+|   48.A   |       |    Dorian      |  Verschiedene Varianten des Charakters werden gepixelt (diese können anschliessend im Münzenshop gekauft werden)            |               |
 
 
 Total: 
