@@ -43,16 +43,16 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 | TC-№   | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ----   | ------------ | ------- | ----------------- |
 |1.1      |Das Spiel ist offen.               |a oder d      |die Figur bewegt sich.                               |
-|2.1     |Das Menü ist offen.                 |Man klick auf die option im Menü      |Das Figuren Menü geht auf                                    |
+|2.1     |Das Hauptmenü ist offen.                 |Man klick auf die option im Menü      |Das Figuren Menü geht auf                                    |
 |2.2    |Das Figuren Menü ist offen.                 |man klickt auf die Gegenstände die man ausrüsten will.      |Der Gegenstand wird angezogen   |
-|3.1   |Das Menü ist offen.                 |Man klickt auf Spielen       |Es öffnet sich ein Fenster.                                    |
+|3.1   |Das Hauptmenü ist offen.                 |Man klickt auf Spielen       |Es öffnet sich ein Fenster.                                    |
 |3.2  |Das Level Fentster ist offen.                 |Mann klickt auf das Level das man starten will      |Das Level startet                                    |
-|4.1|Das Menü ist offen.                 |Man klickt auf den Hintergrund      |Das Hintergrund veränderungs Menü geht auf |
+|4.1|Das Hauptmenü ist offen.                 |Man klickt auf den Hintergrund      |Das Hintergrund veränderungs Menü geht auf |
 |4.2|Das Hintergrund-Menü ist offen                 |Man klickt auf den Hintergrund den Man will      |Der Hintergrund verändert sich|
-| 8      |                 |      |                                    |
-|  9     |                 |      |                                    |
-|   10   |                 |      |                                    |
-|     11 |                 |      |                                    |
+|5.1|Das Hauptmenü ist offen.                 |Man klickt auf den "Spiel verlassen" Knopf.      |Das Spiel schliest sich.                                    |
+|6.1|Das Hauptmenü ist offen.                  |Man klickt auf den "Einstellungen" Knopf      |Es öffnet sich das Einstellungen Fenster          |
+|6.2|Das Einstellungen Fenster ist offen                 |Man klickt auf den "Tastenbelegungen verändern" Knopf.      |Es öffnet sich das Tastenmenü  |
+|6.3|Das Tastenmenü ist offen.|Man klickt auf die Ausgabe die man Belegen will und Klickt auf die Taste die Man benutzen will.|Es steht das die Taste verändert wurde.|
 |12      |                 |      |                                    |
 |  13    |                 |      |                                    |
 |    14  |                 |      |                                    |
