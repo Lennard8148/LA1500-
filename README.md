@@ -88,54 +88,54 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|1.A|       | Leonardo      |Der User kann nach links laufen                                   | 5              |
-|2.A|       | Leonardo      |Der User kann nach rechts laufen                                  | 5              |
-|3.A|       | Leonardo      |Die Map bewegt sich mit dem Charakter mit                         | 5              |
-|4.A|       | Leonardo      |Der User kann springen                                            | 5              |
-|5.A|       | Leonardo      |Der User kann sprinten                                            | 10              |
-|6.A|       | Leonardo      |Der User kann ein Figurenmenü öffnen                              | 30              |
-|7.A|       | Leonardo      |Figur verändert sich nach dem Menü                                | 40              |
-|8.A|       | Leonardo      |Der User kann ein Level aussuchen                                 | 50              |
-|9.A|       | Leonard       |Das Level ist das ausgesuchte                                     | 45              |
-|10.A|      | Leonardo      |Das einstellungs Fenster geht auf                                 | 10              |
-|11.A|      | Leonardo      |Im einstellungs Fenster kann man das Hintergrundmenü aufmachen           | 10              |
-|12.A|      | Leonardo      |Man kann die verschiedenen Schichten des Hintergrunds verändern          | 90              |
-|13.A|      | Leonardo      |Der Hintergrund passt sich dem eingestellten Hintergrund an              | 30              |
-|14.A|      | Lennard       |Der Charakter kann in eine der Röhren gehen um zu einem Level zu gelangen| 20              |
-|15.A|      | Lennard       |Der  Charakter kann auf ein Hindernis springen                           | 10              |
-|16.A|      | Lennard       |Der Charakter kann über Hindernisse springen                             | 30              |
-|17.A|      | Lennard       |Der Charakter kann unter Hindernissen hindurchsliden                     | 45              |
-|18.A|      | Lennard       |Der Charakter kann sich in der Weltenauswahl nach Links bewegen          | 45              |
-|19.A|      | Lennard       |Der Charakter kann sich in der Weltenauswahl nach Rechts bewegen         | 45              |
-|20.A|      | Lennard       |Der Charakter kann in der Weltenauswahl zu einem Level gehen             | 45              |
-|21.A|      | Lennard       |Der Charakter kann in der Weltenauswahl in ein Level gehen, indem er in die Röhre vor dem Level springt  | 60  |
-|22.A|      | Lennard       |Der User kann auf einer fligenden Plattform landen                       | 30              |
-|23.A|      | Lennard       |Der User kann sich auf einer fligenden Plattform bewegen                 | 20              |
-|24.A|      | Lennard       |Der User kann Spezialmünzen aufsammeln                                   | 20              |
-|25.A|      | Lennard       |Der User kann Münzen aufsammeln                                   |  5             |
-|26.A|      | Marek         |Der User kann im Shop Skins kaufen                                |  90             |
-|27.A|      | Marek         |Im Hintergrund gibt es eine Ebene für Wolken                      |  10             |
-|28.A|      | Marek         |Im Hintergrund gibt es eine Ebene für Berge                       |  10             |
-|29.A|      | Marek         |Im Hintergrund gibt es eine Ebene für Häuser                      |   10            |
-|30.A|      | Marek         |Im Hintergrund gibt es eine Ebene für den Himmel                  |   10            |
-|31.A|      | Marek         |Im Vordergrund gibt es eine Ebene für Gras und kleinere Details   |   10            |
-|32.A|      | Marek         |In den Levels sollen Münzen erscheinen.                           |  70             |
-|33.A|      | Marek         |Nach einem Kauf einer Charaktervariante soll der aktuelle Charakter mit dieser ersetzt werden           | 90              |
-|34.A|      | Marek         |Der Spieler kann seine Charaktervarianten im Hauptmenü oder in der Levelauswahl auswählen.              | 30              |
-|35.A|      | Marek         |Es erscheinen Münzen in den Levels                                | 90              |
-|36.A|      | Marek         |Die Anzahl eingesammelter Münzen wird während dem Spiel angezeigt.          |  20             |
-|37.A|      | Dorian        |Spezialeigenschaften von eingesammelten Münzen sind auf eine gewisse Zeitdauer beschränkt.          |  10             |
-|38.A|      | Dorian        |Der Shop wird gepixelt.                                           | 30              |
-|39.A|      | Dorian        |Der User kann im Shop Spezialeigenschaften kaufen                 | 30              |
-|40.A|      | Dorian        |Der User hat verschiendene Levels zum Spielen                     | 30              |
-|41.A|      | Dorian        |Der User hat eine Weltenauswahl auf der die Levels sind           | 30              |
-|42.A|      | Dorian        |Der Rumpf des Charakters wird gepixelt.                           | 20              |
-|43.A|      | Dorian        |Der Kopf des Charakters wird gepixelt.                            | 10              |
-|44.A|      | Dorian        |Die Beine des Charakters werden gepixelt.                         | 10              |
-|45.A|      | Dorian        |Die Arme des Charakters werden gepixelt.            |  10             |
-|46.A|      | Dorian        |Die animation für das Schleichen des Charakters wird gepixelt.           |  90             |
-|47.A|      | Dorian        |Die animation für das sliden des Charakters wird gepixelt.            | 90              |
-|48.A|      | Dorian        |Verschiedene Varianten des Charakters werden gepixelt (diese können anschliessend im Münzenshop gekauft werden)            |90     |        
+|1.A|  06.03    | Leonardo      |Der User kann nach links laufen                                   | 20           |
+|2.A|   06.03    | Leonardo      |Der User kann nach rechts laufen                                  | 20         |
+|3.A|   13.03    | Leonardo      |Die Map bewegt sich mit dem Charakter mit                         | 35            |
+|4.A|   06.03    | Leonardo      |Der User kann springen                                            | 20            |
+|5.A|  06.03     | Leonardo      |Der User kann sprinten                                            | 20             |
+|6.A|   13.03    | Leonardo      |Der User kann ein Figurenmenü öffnen                              | 30              |
+|7.A|  13.03     | Leonardo      |Figur verändert sich nach dem Menü                                | 40              |
+|8.A|    13.03   | Leonardo      |Der User kann ein Level aussuchen                                 | 50              |
+|9.A|    13.03   | Leonard       |Das Level ist das ausgesuchte                                     | 45              |
+|10.A|   13.03   | Leonardo      |Das einstellungs Fenster geht auf                                 | 25         |
+|11.A|   13.03   | Leonardo      |Im einstellungs Fenster kann man das Hintergrundmenü aufmachen           | 25             |
+|12.A|  20.03    | Leonardo      |Man kann die verschiedenen Schichten des Hintergrunds verändern          | 90              |
+|13.A|   20.03   | Leonardo      |Der Hintergrund passt sich dem eingestellten Hintergrund an              | 30              |
+|14.A|   20.03   | Lennard       |Der Charakter kann in eine der Röhren gehen um zu einem Level zu gelangen| 20              |
+|15.A|   13.03   | Lennard       |Der  Charakter kann auf ein Hindernis springen                           | 25            |
+|16.A|  13.03    | Lennard       |Der Charakter kann über Hindernisse springen                             | 30              |
+|17.A|  13.03    | Lennard       |Der Charakter kann unter Hindernissen hindurchsliden                     | 45              |
+|18.A|  06.03    | Lennard       |Der Charakter kann sich in der Weltenauswahl nach Links bewegen          | 45              |
+|19.A|   06.03   | Lennard       |Der Charakter kann sich in der Weltenauswahl nach Rechts bewegen         | 45              |
+|20.A|   13.03   | Lennard       |Der Charakter kann in der Weltenauswahl zu einem Level gehen             | 45              |
+|21.A|   13.03   | Lennard       |Der Charakter kann in der Weltenauswahl in ein Level gehen, indem er in die Röhre vor dem Level springt  | 60  |
+|22.A|   06.03   | Lennard       |Der User kann auf einer fligenden Plattform landen                       | 30              |
+|23.A|   06.03   | Lennard       |Der User kann sich auf einer fligenden Plattform bewegen                 | 20              |
+|24.A|   20.03   | Lennard       |Der User kann Spezialmünzen aufsammeln                                   | 20              |
+|25.A|  13.03    | Lennard       |Der User kann Münzen aufsammeln                                   |  35       |
+|26.A|  20.03    | Marek         |Der User kann im Shop Skins kaufen                                |  90             |
+|27.A|  13.03    | Marek         |Im Hintergrund gibt es eine Ebene für Wolken                      |  40            |
+|28.A|   13.03   | Marek         |Im Hintergrund gibt es eine Ebene für Berge                       |  40           |
+|29.A|  13.03    | Marek         |Im Hintergrund gibt es eine Ebene für Häuser                      |  50          |
+|30.A|  13.03    | Marek         |Im Hintergrund gibt es eine Ebene für den Himmel                  |   30          |
+|31.A|  20.03    | Marek         |Im Vordergrund gibt es eine Ebene für Gras und kleinere Details   |   50        |
+|32.A|  13.03    | Marek         |In den Levels sollen Münzen erscheinen.                           |  70             |
+|33.A|  20.03    | Marek         |Nach einem Kauf einer Charaktervariante soll der aktuelle Charakter mit dieser ersetzt werden      | 90              |
+|34.A|  20.03    | Marek         |Der Spieler kann seine Charaktervarianten im Hauptmenü oder in der Levelauswahl auswählen.              | 30       |
+|35.A|  13.03    | Marek         |Es erscheinen Münzen in den Levels                                | 90              |
+|36.A|   13.03   | Marek         |Die Anzahl eingesammelter Münzen wird während dem Spiel angezeigt.          |  20             |
+|37.A|   13.03   | Dorian        |Spezialeigenschaften von eingesammelten Münzen sind auf eine gewisse Zeitdauer beschränkt.          |  40          |
+|38.A|   6.03   | Dorian        |Der Shop wird gepixelt.                                           | 40              |
+|39.A|   13.03   | Dorian        |Der User kann im Shop Spezialeigenschaften kaufen                 | 40              |
+|40.A|   20.03   | Dorian        |Der User hat verschiendene Levels zum Spielen                     | 40              |
+|41.A|   20.03   | Dorian        |Der User hat eine Weltenauswahl auf der die Levels sind           | 40              |
+|42.A|  13.03    | Dorian        |Der Rumpf des Charakters wird gepixelt.                           | 30             |
+|43.A|  13.03    | Dorian        |Der Kopf des Charakters wird gepixelt.                            | 30              |
+|44.A|  13.03    | Dorian        |Die Beine des Charakters werden gepixelt.                         | 30         |
+|45.A|   13.03   | Dorian        |Die Arme des Charakters werden gepixelt.            |  30          |
+|46.A|  13.03    | Dorian        |Die animation für das Schleichen des Charakters wird gepixelt.           |  90             |
+|47.A|    20.03  | Dorian        |Die animation für das sliden des Charakters wird gepixelt.            | 90              |
+|48.A|   20.03   | Dorian        |Verschiedene Varianten des Charakters werden gepixelt (diese können anschliessend im Münzenshop gekauft werden)            |90     |        
 
 
 Total:
@@ -145,10 +145,12 @@ Total:
 ✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
-
-1: Wir wollten anfangs ein Kochspiel machen in dem man die Zutaten hin und her ziehen musste, aber da wir wenig Erfahrung mit Unity hatten, haben wir uns dazu entschieden ein Spiel zu nehmen das mehr mainstream ist und mehr Tutorials hat.
+1: Wir haben uns entschieden unser Spiel mit Unity zu machen weil wir alsGruppe noch nie damit gearbeitet haben und es kennenlernen wollen.
 
 2: Wir haben uns dazu entschieden dass wir alles wie ein Pixelart gestalten damit wir eine feste Resolution haben und damit man das Spiel auf tiefer Resolution spielen kann.
+
+3: Wir haben uns entschieden das wir unsere Karakere selbst Zeichnen weil wird das schon können.
+
 
 ## 4 Realisieren
 
