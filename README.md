@@ -24,16 +24,16 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1      |muss|Funktional|ich kann meine figur bewegen|
-|  2     |kann|Funktional|ich kann meine figur aussuchen|
-|   3    |kann|Funktional|ich kann mein level aussuchen|
-|    4   |kann|Funktional|ich kann im menü den hintergrund aussuchen|
-|     5  |muss|Funktional|ich kann im menü das spiel beenden|
-|      6 |kann|Funktional|ich kann die Tastenbelegungen verändern.|
-|7       |kann|Funktional|ich kann die Lautstärke verändern|
-| 8      |kann|Funktional|ich kann aussuchen ob ich zu zweit oder aleine spiele|
-|  9     |kann|Funktional|ich kann meine Spezialfähigkeit|
-|   10   |kann|Funktional|ich kann im Shop spezialfähigkeiten und skins kaufen und freischalten|
+| 1      |muss|Funktional|als Spieler kann ich meine figur bewegen|
+|  2     |kann|Funktional|als Spieler kann ich meine figur aussuchen|
+|   3    |kann|Funktional|als Spieler kann ich mein level aussuchen|
+|    4   |kann|Funktional|als Spieler kann ich im menü den hintergrund aussuchen|
+|     5  |muss|Funktional|als Spieler kann ich im menü das spiel beenden|
+|      6 |kann|Funktional|als Spieler kann ich die Tastenbelegungen verändern.|
+|7       |kann|Funktional|als Spieler kann ich die Lautstärke verändern|
+| 8      |kann|Funktional|als Spieler kann ich aussuchen ob ich zu zweit oder aleine spiele|
+|  9     |kann|Funktional|als Spieler kann ich meine Spezialfähigkeit|
+|   10   |kann|Funktional|als Spieler kann ich im Shop spezialfähigkeiten und skins kaufen und freischalten|
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -47,8 +47,8 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |2.2    |Das Figuren Menü ist offen.                 |man klickt auf die Gegenstände die man ausrüsten will.      |Der Gegenstand wird angezogen   |
 |3.1   |Das Menü ist offen.                 |Man klickt auf Spielen       |Es öffnet sich ein Fenster.                                    |
 |3.2  |Das Level Fentster ist offen.                 |Mann klickt auf das Level das man starten will      |Das Level startet                                    |
-|      6 |                 |      |                                    |
-|7       |                 |      |                                    |
+|4.1|Das Menü ist offen.                 |Man klickt auf den Hintergrund      |Das Hintergrund veränderungs Menü geht auf |
+|4.2|Das Hintergrund-Menü ist offen                 |Man klickt auf den Hintergrund den Man will      |Der Hintergrund verändert sich|
 | 8      |                 |      |                                    |
 |  9     |                 |      |                                    |
 |   10   |                 |      |                                    |
