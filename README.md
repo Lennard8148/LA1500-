@@ -147,7 +147,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+1:Wir haben uns dazu entschieden das ganze Spiel mit grossen Pixel zu gestalten damit wir eine Resolution haben die Fest ist und damit man Es auf tiefer Grafik spielen kann.
 
 ## 4 Realisieren
 
