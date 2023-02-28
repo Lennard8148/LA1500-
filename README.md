@@ -146,7 +146,9 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+1: Wir wollten anfangs ein Kochspiel machen in dem man die Zutaten hin und her ziehen musste, aber da wir wenig Erfahrung hatten mit dem Program haben wir uns dazu entschieden ein Spiel zu nehmen das mehr mainstream ist und mehr Tutorials hat.
+
+2: Wir haben uns dazu entschieden dass wir alles wie ein Pixelart gestalten damit wir eine feste Resolution haben und damit man das Spiel auf tiefer Resolution spielen kann
 
 ## 4 Realisieren
 
