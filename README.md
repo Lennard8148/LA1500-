@@ -91,21 +91,21 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       | leonardo          |Der User kann nach links laufen              |               |
 |  2.A    |       | leonardo          |Der User kann nach rechts laufen              |               |
-|   3.A   |       | leonardo          |Die Map bewegt sich mit dem charakter mit              |               |
+|   3.A   |       | leonardo          |Die Map bewegt sich mit dem Charakter mit              |               |
 |   4.A   |       | leonardo          |Der User kann springen              |               |
 |   5.A   |       | leonardo          |Der User kann sprinten              |               |
 |   6.A   |       | leonardo          |Der User kann ein Figurenmenü öffnen              |               |
-|   7.A   |       | leonardo          |Figur verändert sich nach dem menü              |               |
+|   7.A   |       | leonardo          |Figur verändert sich nach dem Menü              |               |
 |    8.A  |       | leonardo          |Der User kann ein Level aussuchen              |               |
-|   9.A   |       | leonardo          |Das level ist das ausgesuchte              |               |
+|   9.A   |       | leonardo          |Das Level ist das ausgesuchte              |               |
 |    10.A  |       | leonardo          |Das einstellungs Fenster geht auf              |               |
-|   11.A   |       | leonardo          |Im einstellungs fenster kann man das hintergrundmenü aufmachen              |               |
-|   12.A   |       | leonardo          |Man kann die verschiedenen schichten des hintergrunds verändern              |               |
-|   13.A   |       | leonardo          |Der hintergrund passt sich dem eingestellten hintergrund an              |               |
-|  14.A    |       |   Lennard        |  Der Karakter kann in eine der Rören gehen um zu einem Level zu gelangen            |               |
-|   15.A   |       |   Lennard        |   Der  Karakter kann auf einer Hinternisse springen         |               |
-|      |       |   Lennard        |   Der Karakter kann über Hinternisse springen           |               |
-|      |       |   Lennard        |    Der Karakter kann unter Hinterniss sliden          |               |
+|   11.A   |       | leonardo          |Im einstellungs Fenster kann man das Hintergrundmenü aufmachen              |               |
+|   12.A   |       | leonardo          |Man kann die verschiedenen Schichten des Hintergrunds verändern              |               |
+|   13.A   |       | leonardo          |Der Hintergrund passt sich dem eingestellten Hintergrund an              |               |
+|  14.A    |       |   Lennard        |  Der Charakter kann in eine der Röhren gehen um zu einem Level zu gelangen            |               |
+|   15.A   |       |   Lennard        |   Der  Charakter kann auf ein Hinterniss springen         |               |
+|      |       |   Lennard        |   Der Charakter kann über Hinternisse springen           |               |
+|      |       |   Lennard        |    Der Charakter kann unter Hinternissen sliden          |               |
 |      |       |   Lennard        |              |               |
 |      |       |    Lennard       |              |               |
 |      |       |    Lennard       |              |               |
