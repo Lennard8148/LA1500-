@@ -8,6 +8,7 @@ Rhododendron Leoanardo Grigioni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
 | ----- | ------- | ------------------------------------------------------------ |
 |  21.02.23     | 0.0.1   | Heute haben wir unser Projekt ausgewählt und mit der Projektdokumentation angefangen|
 |  28.02.23     | 0.0.2     |  Heute haben wir an unserer Projekt dokumentation weitergearbeitet. Wir haben uns über Unity informiert und schon die ersten Arbeitspakete erfüllt.                                                           |
+|  7.03.23     | 0.0.3   |       Die ersten Arbeitspakete gemacht                                                  |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -156,9 +157,54 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
+| 1.A  |       |     Leonardo      |     20          |                  |
+| 2.A  |       |   Leonardo         |     20          |                   |
+| 3.A  |       |    Leonardo        |     35          |                   |
+| 4.A  |       |   Leonardo         |     20          |                   |
+| 5.A  |       |    Leonardo        |     20          |                   |
+| 6.A  |       |    Leonardo        |      30         |                   |
+| 7.A  |       |    Leonardo        |      40         |                   |
+| 8.A  |       |     Leonardo       |       50        |                   |
+| 9.A  |       |    Leonardo        |       45        |                   |
+| 10.A |       |      Leonardo      |       25        |                   |
+| 11.A |       |    Leonardo        |       25        |                   |
+| 12.A |       |     Leonardo       |       90        |                   |
+| 13.A |       |  Lennard         |         30      |                   |
+| 14.A |       |   Lennard         |        25       |                   |
+| 15.A |       |   Lennard         |        30       |                   |
+| 16.A  |       |  Lennard          |       45        |                   |
+| 17.A  |       |  Lennard          |       45        |                   |
+| 18.A  |       |  Lennard          |       45        |                   |
+| 19.A  |       |  Lennard          |        45       |                   |
+| 2O.A  |       |  Lennard          |         60      |                   |
+| 21.A  |       |  Lennard          |        30       |                   |
+| 22.A  |       |  Lennard          |        20       |                   |
+| 23.A  |       |   Lennard         |        20       |                   |
+| 24.A  |       |  Lennard          |        35       |                   |
+| 25.A  |       |  Lennard          |        90       |                   |
+| 26.A  |       |   Marek        |           40    |                   |
+| 27.A  |       |  Marek         |          40     |                   |
+| 28.A  |       |  Marek         |           50    |                   |
+| 29.A  |       |  Marek         |           30    |                   |
+| 30.A  |       |  Marek         |         50      |                   |
+| 31.A  |       |   Marek        |           50    |                   |
+| 32.A  |       |  Marek         |         70      |                   |
+| 33.A  |       |  Marek         |         90      |                   |
+| 34.A  |       |   Marek        |         30      |                   |
+| 35.A  |       |  Marek         |          90     |                   |
+| 36.A  |       |  Marek         |         20      |                   |
+| 37.A  |       |   Dorian        |        40       |                   |
+| 38.A  |       |   Dorian        |         40      |                   |
+| 39.A  |       |   Dorian        |         40      |                   |
+| 40.A  |       |   Dorian       |         40      |                   |
+| 41.A  |       |    Dorian       |         40      |                   |
+| 42.A  |       |    Dorian       |         30      |                   |
+| 43.A  |       |   Dorian        |         30      |                   |
+| 44.A  |       |   Dorian        |         30      |                   |
+| 45.A  |       |   Dorian        |         30      |                   |
+| 46.A  |       |   Dorian        |          90     |                   |
+| 47.A  |       |   Dorian        |           90    |                   |
+| 48.A  |       |   Dorian        |             90  |                   |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
