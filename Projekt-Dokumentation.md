@@ -157,11 +157,11 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |     Leonardo      |     20          |                  |
-| 2.A  |       |   Leonardo         |     20          |                   |
+| 1.A  |  07.03     |     Leonardo      |     20          |    40              |
+| 2.A  |   07.03    |   Leonardo         |     20          |   40                |
 | 3.A  |       |    Leonardo        |     35          |                   |
-| 4.A  |       |   Leonardo         |     20          |                   |
-| 5.A  |       |    Leonardo        |     20          |                   |
+| 4.A  |   07.03    |   Leonardo         |     20          |  45                 |
+| 5.A  |    07.03   |    Leonardo        |     20          |    40               |
 | 6.A  |       |    Leonardo        |      30         |                   |
 | 7.A  |       |    Leonardo        |      40         |                   |
 | 8.A  |       |     Leonardo       |       50        |                   |
@@ -174,12 +174,12 @@ Total:
 | 15.A |       |   Lennard         |        30       |                   |
 | 16.A  |       |  Lennard          |       45        |                   |
 | 17.A  |       |  Lennard          |       45        |                   |
-| 18.A  |       |  Lennard          |       45        |                   |
-| 19.A  |       |  Lennard          |        45       |                   |
+| 18.A  |  07.03     |  Lennard          |       45        |     40              |
+| 19.A  |  07.03     |  Lennard          |        45       |    40               |
 | 2O.A  |       |  Lennard          |         60      |                   |
 | 21.A  |       |  Lennard          |        30       |                   |
-| 22.A  |       |  Lennard          |        20       |                   |
-| 23.A  |       |   Lennard         |        20       |                   |
+| 22.A  |   07.03    |  Lennard          |        20       |    35               |
+| 23.A  |  07.03     |   Lennard         |        20       |      40             |
 | 24.A  |       |  Lennard          |        35       |                   |
 | 25.A  |       |  Lennard          |        90       |                   |
 | 26.A  |       |   Marek        |           40    |                   |
@@ -194,7 +194,7 @@ Total:
 | 35.A  |       |  Marek         |          90     |                   |
 | 36.A  |       |  Marek         |         20      |                   |
 | 37.A  |       |   Dorian        |        40       |                   |
-| 38.A  |       |   Dorian        |         40      |                   |
+| 38.A  | 07.03      |   Dorian        |         40      |    45               |
 | 39.A  |       |   Dorian        |         40      |                   |
 | 40.A  |       |   Dorian       |         40      |                   |
 | 41.A  |       |    Dorian       |         40      |                   |
