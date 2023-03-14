@@ -2,7 +2,7 @@
 
 # Projekt-Dokumentation
 
-Rhododendron Leoanardo Grigioni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
+Rhododendron Leonardo Grigioni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -25,21 +25,21 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-|1|muss|     Funktional|     Als User kann ich meine figur bewegen|
-|2|kann|     Funktional|     Als User kann ich meine figur aussuchen|
-|3|kann|     Funktional|     Als User kann ich mein level aussuchen|
-|4|kann|     Funktional|     Als User kann ich im menü den hintergrund aussuchen|
-|5|muss|     Funktional|     Als User kann ich im menü das spiel beenden|
-|6|kann|     Funktional|     Als User kann ich die Tastenbelegungen verändern.|
-|7|kann|     Funktional|     Als User kann ich die Lautstärke verändern|
-|8|kann|     Funktional|     Als User kann ich aussuchen ob ich zu zweit oder aleine spiele|
-|9|kann|     Funktional|     Als User kann ich meine Spezialfähigkeit|
-|10|kann|    Funktional|     Als User kann ich im Shop spezialfähigkeiten und skins kaufen und freischalten|
-|11|muss|    Funktional|     Als User möchte ich das ich Level mehrmals spielen kann                             |
-|12|muss|    Funktional|     Als User möchte ich wenn ich Sterbe bei dem letzten Checkpoint wieder Spannen    |
-|13|muss|    Funktional|     Als User möchte ich wenn ich den Endboss des einen Levels besiegt habe in das nächste Level kommenen|
-|14|muss|    Funktional|     Als User möchte ich das wenn ich die kleinen Story berende eine Belonung bekomme |
-|15|muss|    Funktional|     Als User möchte das alle Münzen die ich in einem Run sammle dann bei mir im Menu angezeigt werden|
+|1|muss|     Funktional|     Als User kann ich meine figur bewegen, damit man das Spiel spielen kann|
+|2|kann|     Funktional|     Als User kann ich meine figur aussuchen, damit das Spiel nicht so langweilig ist|
+|3|kann|     Funktional|     Als User kann ich mein level aussuchen, damit man nicht nicht nur ein Level spielen kann, sondern auch andere und so abwechslung bekommt|
+|4|kann|     Funktional|     Als User kann ich im Menü den hintergrund aussuchen, damit das Spiel besser aussieht|
+|5|kann|     Funktional|     Als User kann ich im menü das Spiel beenden, damit man das Spiel nicht immer offen haben muss|
+|6|kann|     Funktional|     Als User kann ich die Tastenbelegungen verändern, damit verschiedene Spielertypen das Spiel mit ihren eigenen Tasten spielen können.|
+|7|kann|     Funktional|     Als User kann ich die Lautstärke verändern, damit man wenn man die Musik lauter haben möchte sie lauter stellen kann und wenn man sie leiser haben möchte leiser machen kann.|
+|8|kann|     Funktional|     Als User kann ich aussuchen ob ich zu zweit oder aleine spiele, damit man das Spiel auch mit einem Kollegen zusammen Spielen kann.|
+|9|kann|     Funktional|     Als User kann ich Spezialfähigkeiteiten im Spiel haben, damit man Gegner besiegen kann und ein Level schneller durchspielen kann, kommt auf die Spezialfähigkeit an was man für eine hat. |
+|10|kann|    Funktional|     Als User kann ich im Shop spezialfähigkeiten und skins kaufen und freischalten, damit der User nicht immer nur den gleichen Skin spielen muss, auch Spezialfähigkeiten kann man in einem Level für eine gewisse dauer kaufen mit Münzen|
+|11|muss|    Funktional|     Als User möchte ich das ich Level mehrmals spielen kann, damit wenn man ein Level schon einmal gespielt hat es nochmals zu spielen.                            |
+|12|muss|    Funktional|     Als User möchte ich wenn ich Sterbe bei dem letzten Checkpoint wieder Spannen, damit man nicht immer wenn man stirbt das Level ganz neu Spielen muss.   |
+|13|muss|    Funktional|     Als User möchte ich wenn ich den Endboss des einen Levels besiegt habe in das nächste Level kommen, damit man nicht immer nur in einem Level feststeckt sondern auch noch weitere Level spielen kann.|
+|14|kann|    Funktional|     Als User möchte ich, dass wenn ich die kleinen Story beende, eine Belonung bekommen, damit es sich lohnt die Story zu machen.|
+|15|muss|    Funktional|     Als User möchte das alle Münzen die ich in einem Run sammle dann bei mir im Menu angezeigt werden, damit man weiss wie viele Münzen man in diesem Run gesammelt hat und wie viele man gesammt zum ausgeben hat.|
 
 
 
