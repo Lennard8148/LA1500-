@@ -114,16 +114,16 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |23.A|   07.03   | Lennard       |Der User kann sich auf einer fligenden Plattform bewegen                 | 20              |
 |24.A|   21.03   | Lennard       |Der User kann Spezialmünzen aufsammeln                                   | 20              |
 |25.A|  14.03    | Lennard       |Der User kann im Shop Skins kaufen                                 |  35       |
-|26.A|  21.03    | Marek         |Der User kann Münzen aufsammeln                               |  30             | 
+|26.A|  07.03    | Marek         |Der User kann Münzen aufsammeln                               |  30             | 
 |27.A|  14.03    | Marek         |Im Hintergrund gibt es eine Hintergrundebene (Himmel)                      |  20            |
 |28.A|   14.03   | Marek         |Im Hintergrund gibt es eine Ebene für Bäume                       |  20           |
 |29.A|  14.03    | Marek         |Im Hintergrund gibt es eine Ebene für Sterne                      |  20          |
 |30.A|  14.03    | Marek         |Im Vordergrund gibt es eine Ebene für den Bäume                |   20          |
-|31.A|  21.03    | Marek         |Im Vordergrund gibt es eine Ebene für Gras und den Boden   |   30        |
-|32.A|  14.03    | Marek         |In den Levels sollen Münzen erscheinen.                           |  30             |
-|33.A|  21.03    | Marek         |Nach einem Kauf einer Charaktervariante soll der aktuelle Charakter mit dieser ersetzt werden      | 90              |
-|34.A|  21.03    | Marek         |Der Spieler kann seine Charaktervarianten im Hauptmenü oder in der Levelauswahl auswählen.              | 30       |
-|35.A|  14.03    | Marek         |Es erscheinen Münzen in den Levels                                | 90              |
+|31.A|  14.03    | Marek         |Im Vordergrund gibt es eine Ebene für Gras  |   20        |
+|32.A|  14.03    | Marek         |Im Vordergrund gibt es eine Ebene für den Boden                          |  20             |
+|33.A|  14.03    | Marek         |Die Ebenen erzeugen einen Parallax-Effekt      | 90              | 
+|34.A|  21.03    | Marek         | Nach einem Kauf einer Charaktervariante soll der aktuelle Charakter mit dieser ersetzt werden              | 30       |
+|35.A|  07.03    | Marek         |Es erscheinen Münzen in den Levels                                | 40              |
 |36.A|   14.03   | Marek         |Die Anzahl eingesammelter Münzen wird während dem Spiel angezeigt.          |  60             | 
 |37.A|   14.03   | Dorian        |Spezialeigenschaften von eingesammelten Münzen sind auf eine gewisse Zeitdauer beschränkt.          |  40          |
 |38.A|   7.03    | Dorian        |Der Shop wird gepixelt.                                           | 40              |
@@ -174,27 +174,27 @@ Total:
 | 15.A |       |   Lennard         |        30       |                   |
 | 16.A  |       |  Lennard          |       45        |                   |
 | 17.A  |       |  Lennard          |       45        |                   |
-| 18.A  |  07.03     |  Lennard          |       45        |     40              |
-| 19.A  |  07.03     |  Lennard          |        45       |    40               |
+| 18.A  |  07.03.23     |  Lennard          |       45        |     40              |
+| 19.A  |  07.03.23     |  Lennard          |        45       |    40               |
 | 2O.A  |       |  Lennard          |         60      |                   |
 | 21.A  |       |  Lennard          |        30       |                   |
-| 22.A  |   07.03    |  Lennard          |        20       |    35               |
-| 23.A  |  07.03     |   Lennard         |        20       |      40             |
+| 22.A  |   07.03.23    |  Lennard          |        20       |    35               |
+| 23.A  |  07.03.23     |   Lennard         |        20       |      40             |
 | 24.A  |       |  Lennard          |        35       |                   |
 | 25.A  |       |  Lennard          |        90       |                   |
-| 26.A  |       |   Marek        |           40    |                   |
-| 27.A  |       |  Marek         |          40     |                   |
-| 28.A  |       |  Marek         |           50    |                   |
-| 29.A  |       |  Marek         |           30    |                   |
-| 30.A  |       |  Marek         |         50      |                   |
-| 31.A  |       |   Marek        |           50    |                   |
-| 32.A  |       |  Marek         |         70      |                   |
-| 33.A  |       |  Marek         |         90      |                   |
-| 34.A  |       |   Marek        |         30      |                   |
-| 35.A  |       |  Marek         |          90     |                   |
-| 36.A  |       |  Marek         |         20      |                   |
+| 26.A  |  07.03.23     |   Marek        |           30    |     35              |
+| 27.A  |  14.03.23     |  Marek         |          20     |        20           |
+| 28.A  |  14.03.23     |  Marek         |           20    |          20         |
+| 29.A  |  14.03.23     |  Marek         |           20    |            20       |
+| 30.A  |   14.03.23    |  Marek         |         20      |            20       |
+| 31.A  |   14.03.23    |   Marek        |           20    |            20       |
+| 32.A  |  14.03.23     |  Marek         |         20      |            20       |
+| 33.A  |  14.03.23     |  Marek         |         90      |       120            |
+| 34.A  |  21.03.23     |   Marek        |         30      |                   |
+| 35.A  |   07.03.23    |  Marek         |          40     |      30             |
+| 36.A  |       |  Marek         |         60      |      70             |
 | 37.A  |       |   Dorian        |        40       |                   |
-| 38.A  | 07.03      |   Dorian        |         40      |    45               |
+| 38.A  | 07.03.23      |   Dorian        |         40      |    45               |
 | 39.A  |       |   Dorian        |         40      |                   |
 | 40.A  |       |   Dorian       |         40      |                   |
 | 41.A  |       |    Dorian       |         40      |                   |
