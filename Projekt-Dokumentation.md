@@ -113,20 +113,20 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |22.A|   07.03   | Lennard       |Der User kann auf einer fligenden Plattform landen                       | 30              |
 |23.A|   07.03   | Lennard       |Der User kann sich auf einer fligenden Plattform bewegen                 | 20              |
 |24.A|   21.03   | Lennard       |Der User kann Spezialmünzen aufsammeln                                   | 20              |
-|25.A|  14.03    | Lennard       |Der User kann Münzen aufsammeln                                   |  35       |
-|26.A|  21.03    | Marek         |Der User kann im Shop Skins kaufen                                |  90             |
-|27.A|  14.03    | Marek         |Im Hintergrund gibt es eine Ebene für Wolken                      |  40            |
-|28.A|   14.03   | Marek         |Im Hintergrund gibt es eine Ebene für Berge                       |  40           |
-|29.A|  14.03    | Marek         |Im Hintergrund gibt es eine Ebene für Häuser                      |  50          |
-|30.A|  14.03    | Marek         |Im Hintergrund gibt es eine Ebene für den Himmel                  |   30          |
-|31.A|  21.03    | Marek         |Im Vordergrund gibt es eine Ebene für Gras und kleinere Details   |   50        |
-|32.A|  14.03    | Marek         |In den Levels sollen Münzen erscheinen.                           |  70             |
+|25.A|  14.03    | Lennard       |Der User kann im Shop Skins kaufen                                 |  35       |
+|26.A|  21.03    | Marek         |Der User kann Münzen aufsammeln                               |  30             | 
+|27.A|  14.03    | Marek         |Im Hintergrund gibt es eine Hintergrundebene (Himmel)                      |  20            |
+|28.A|   14.03   | Marek         |Im Hintergrund gibt es eine Ebene für Bäume                       |  20           |
+|29.A|  14.03    | Marek         |Im Hintergrund gibt es eine Ebene für Sterne                      |  20          |
+|30.A|  14.03    | Marek         |Im Vordergrund gibt es eine Ebene für den Bäume                |   20          |
+|31.A|  21.03    | Marek         |Im Vordergrund gibt es eine Ebene für Gras und den Boden   |   30        |
+|32.A|  14.03    | Marek         |In den Levels sollen Münzen erscheinen.                           |  30             |
 |33.A|  21.03    | Marek         |Nach einem Kauf einer Charaktervariante soll der aktuelle Charakter mit dieser ersetzt werden      | 90              |
 |34.A|  21.03    | Marek         |Der Spieler kann seine Charaktervarianten im Hauptmenü oder in der Levelauswahl auswählen.              | 30       |
 |35.A|  14.03    | Marek         |Es erscheinen Münzen in den Levels                                | 90              |
-|36.A|   14.03   | Marek         |Die Anzahl eingesammelter Münzen wird während dem Spiel angezeigt.          |  20             |
+|36.A|   14.03   | Marek         |Die Anzahl eingesammelter Münzen wird während dem Spiel angezeigt.          |  60             | 
 |37.A|   14.03   | Dorian        |Spezialeigenschaften von eingesammelten Münzen sind auf eine gewisse Zeitdauer beschränkt.          |  40          |
-|38.A|   7.03   | Dorian        |Der Shop wird gepixelt.                                           | 40              |
+|38.A|   7.03    | Dorian        |Der Shop wird gepixelt.                                           | 40              |
 |39.A|   14.03   | Dorian        |Der User kann im Shop Spezialeigenschaften kaufen                 | 40              |
 |40.A|   21.03   | Dorian        |Der User hat verschiendene Levels zum Spielen                     | 40              |
 |41.A|   21.03   | Dorian        |Der User hat eine Weltenauswahl auf der die Levels sind           | 40              |
