@@ -38,8 +38,8 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |11|muss|    Funktional|     Als User möchte ich das ich Level mehrmals spielen kann, damit wenn man ein Level schon einmal gespielt hat es nochmals zu spielen.                            |
 |12|muss|    Funktional|     Als User möchte ich wenn ich Sterbe bei dem letzten Checkpoint wieder Spannen, damit man nicht immer wenn man stirbt das Level ganz neu Spielen muss.   |
 |13|muss|    Funktional|     Als User möchte ich wenn ich den Endboss des einen Levels besiegt habe in das nächste Level kommen, damit man nicht immer nur in einem Level feststeckt sondern auch noch weitere Level spielen kann.|
-|14|kann|    Funktional|     Als User möchte ich, dass wenn ich die kleinen Story beende, eine Belonung bekommen, damit es sich lohnt die Story zu machen.|
-|15|muss|    Funktional|     Als User möchte das alle Münzen die ich in einem Run sammle dann bei mir im Menu angezeigt werden, damit man weiss wie viele Münzen man in diesem Run gesammelt hat und wie viele man gesammt zum ausgeben hat.|
+|14|kann|    Funktional|     Als User möchte ich, dass wenn ich alle Level beende, eine Belohnung bekommen, damit es sich lohnt das Spiel durchzuspielen.|
+|15|muss|    Funktional|     Als User möchte das alle Münzen die ich in einem Run sammle in der oberen linken Ecke angezeigt bekommen, damit ich immer weiss wie viele Münzen ich bereits habe.|
 
 
 
@@ -69,7 +69,7 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |11.1|Spiel ist gestartet, Spiel ist durchgespielt            |  Menu öffnen und auf "Spiel Neustart" drücken    |       Spiel wird neu gestartet                             |
 |12.1|    Spiel gestartet, in einem Level |  Man Stribt    |      Man spannt am letzen Checkpoint                              |
 |13.1|    Spiel gestartet, in einem Level am Schluss           |  Man besiegt den Endboss     |    Man kommt in das neue Level             |
-|14.1|    Spiel gestartet             |   Story gemacht    |        Der User bekommt eine kleine Belonung                            |
+|14.1|    Spiel gestartet             |   Alle Level abgeschlossen    |        Der User bekommt eine kleine Belonung                            |
 |15.1|    Spiel gestartet, in einem Level             | Der Spieler nimmt eine Münze auf      |   Diese Münze wird im Menu nacher angezeigt und man kann sie benutzen                                 |
 
 
