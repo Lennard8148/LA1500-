@@ -170,9 +170,9 @@ Total:
 | 11.A |       |    Leonardo        |       25        |                   |
 | 12.A |       |     Leonardo       |       90        |                   |
 | 13.A |       |  Lennard         |         30      |                   |
-| 14.A |       |   Lennard         |        25       |                   |
-| 15.A |       |   Lennard         |        30       |                   |
-| 16.A  |       |  Lennard          |       45        |                   |
+| 14.A |   14.03    |   Lennard         |        25       |                   |
+| 15.A | 14.03      |   Lennard         |        30       |    40               |
+| 16.A  |  14.03     |  Lennard          |       45        |     50              |
 | 17.A  |       |  Lennard          |       45        |                   |
 | 18.A  |  07.03.23     |  Lennard          |       45        |     40              |
 | 19.A  |  07.03.23     |  Lennard          |        45       |    40               |
