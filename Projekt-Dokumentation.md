@@ -157,12 +157,12 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  07.03     |     Leonardo      |     20          |    40              |
-| 2.A  |   07.03    |   Leonardo         |     20          |   40                |
-| 3.A  |    14.03   |    Leonardo        |     35          |   50                |
-| 4.A  |   07.03    |   Leonardo         |     20          |  45                 |
-| 5.A  |    07.03   |    Leonardo        |     20          |    40               |
-| 6.A  |       |    Leonardo        |      30         |                   |
+| 1.A  |  07.03.23     |     Leonardo      |     20          |    40              |
+| 2.A  |   07.03.23    |   Leonardo         |     20          |   40                |
+| 3.A  |    14.03.23   |    Leonardo        |     35          |   50                |
+| 4.A  |   07.03.23    |   Leonardo         |     20          |  45                 |
+| 5.A  |    07.03.23   |    Leonardo        |     20          |    40               |
+| 6.A  |       |   Leonardo        |      30         |                   |
 | 7.A  |       |    Leonardo        |      40         |                   |
 | 8.A  |       |     Leonardo       |       50        |                   |
 | 9.A  |       |    Leonardo        |       45        |                   |
@@ -170,9 +170,9 @@ Total:
 | 11.A |       |    Leonardo        |       25        |                   |
 | 12.A |       |     Leonardo       |       90        |                   |
 | 13.A |       |  Lennard         |         30      |                   |
-| 14.A |   14.03    |   Lennard         |        25       |                   |
-| 15.A | 14.03      |   Lennard         |        30       |    40               |
-| 16.A  |  14.03     |  Lennard          |       45        |     50              |
+| 14.A |   14.03.23    |   Lennard         |        25       |                   |
+| 15.A | 14.03.23      |   Lennard         |        30       |    40               |
+| 16.A  |  14.03.23     |  Lennard          |       45        |     50              |
 | 17.A  |       |  Lennard          |       45        |                   |
 | 18.A  |  07.03.23     |  Lennard          |       45        |     40              |
 | 19.A  |  07.03.23     |  Lennard          |        45       |    40               |
