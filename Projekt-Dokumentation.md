@@ -198,11 +198,11 @@ Total:
 | 39.A  |       |   Dorian        |         40      |                   |
 | 40.A  |       |   Dorian       |         40      |                   |
 | 41.A  |       |    Dorian       |         40      |                   |
-| 42.A  |       |    Dorian       |         30      |                   |
-| 43.A  |       |   Dorian        |         30      |                   |
-| 44.A  |       |   Dorian        |         30      |                   |
-| 45.A  |       |   Dorian        |         30      |                   |
-| 46.A  |       |   Dorian        |          90     |                   |
+| 42.A  |07.03.23|    Dorian       |         30      |  20              |
+| 43.A  |07.03.23|   Dorian        |         30      |  20              |
+| 44.A  |07.03.23|   Dorian        |         30      |  20              |
+| 45.A  |07.03.23|   Dorian        |         30      |  20              |
+| 46.A  |14.03.23|   Dorian        |          90     |  70              |
 | 47.A  |       |   Dorian        |           90    |                   |
 | 48.A  |       |   Dorian        |             90  |                   |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
