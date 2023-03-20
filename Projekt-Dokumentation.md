@@ -9,6 +9,7 @@ Rhododendron Leonardo Grigioni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
 |  21.02.23     | 0.0.1   | Heute haben wir unser Projekt ausgewählt und mit der Projektdokumentation angefangen|
 |  28.02.23     | 0.0.2     |  Heute haben wir an unserer Projekt dokumentation weitergearbeitet. Wir haben uns über Unity informiert und schon die ersten Arbeitspakete erfüllt.                                                           |
 |  7.03.23     | 0.0.3   |       Die ersten Arbeitspakete gemacht                                                  |
+|  14.03.23     | 0.0.4   |       Weitere Arbeitspakete gemacht und Dokumentation verbessert                                                  |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -162,26 +163,26 @@ Total:
 | 3.A  |    14.03.23   |    Leonardo        |     35          |   50                |
 | 4.A  |   07.03.23    |   Leonardo         |     20          |  45                 |
 | 5.A  |    07.03.23   |    Leonardo        |     20          |    40               |
-| 6.A  |       |   Leonardo        |      30         |                   |
-| 7.A  |       |    Leonardo        |      40         |                   |
-| 8.A  |       |     Leonardo       |       50        |                   |
-| 9.A  |       |    Leonardo        |       45        |                   |
-| 10.A |       |      Leonardo      |       25        |                   |
-| 11.A |       |    Leonardo        |       25        |                   |
-| 12.A |       |     Leonardo       |       90        |                   |
-| 13.A |       |  Lennard         |         30      |                   |
-| 14.A |   14.03.23    |   Lennard         |        25       |                   |
+| 6.A  |    14.03.23   |   Leonardo        |      30         |                   |
+| 7.A  |    14.03.23   |    Leonardo        |      40         |                   |
+| 8.A  |   14.03.23    |     Leonardo       |       50        |                   |
+| 9.A  |   14.03.23     |    Leonardo        |       45        |                   |
+| 10.A |     14.03.23   |      Leonardo      |       25        |                   |
+| 11.A |    14.03.23    |    Leonardo        |       25        |                   |
+| 12.A |   21.03.23     |     Leonardo       |       90        |                   |
+| 13.A |   21.03.23     |  Lennard         |         30      |                   |
+| 14.A |   21.03.23    |   Lennard         |        25       |                   |
 | 15.A | 14.03.23      |   Lennard         |        30       |    40               |
 | 16.A  |  14.03.23     |  Lennard          |       45        |     50              |
-| 17.A  |       |  Lennard          |       45        |                   |
+| 17.A  |  14.03.23      |  Lennard          |       45        |                   |
 | 18.A  |  07.03.23     |  Lennard          |       45        |     40              |
 | 19.A  |  07.03.23     |  Lennard          |        45       |    40               |
-| 2O.A  |       |  Lennard          |         60      |                   |
-| 21.A  |       |  Lennard          |        30       |                   |
+| 2O.A  |    21.03.23   |  Lennard          |         60      |                   |
+| 21.A  |   14.03.23    |  Lennard          |        30       |                   |
 | 22.A  |   07.03.23    |  Lennard          |        20       |    35               |
 | 23.A  |  07.03.23     |   Lennard         |        20       |      40             |
-| 24.A  |       |  Lennard          |        35       |                   |
-| 25.A  |       |  Lennard          |        90       |                   |
+| 24.A  |    21.03.23    |  Lennard          |        35       |                   |
+| 25.A  |    14.03.23    |  Lennard          |        90       |                   |
 | 26.A  |  07.03.23     |   Marek        |           30    |     35              |
 | 27.A  |  14.03.23     |  Marek         |          20     |        20           |
 | 28.A  |  14.03.23     |  Marek         |           20    |          20         |
@@ -193,18 +194,18 @@ Total:
 | 34.A  |  21.03.23     |   Marek        |         30      |                   |
 | 35.A  |   07.03.23    |  Marek         |          40     |      30             |
 | 36.A  |    07.03.23   |  Marek         |         60      |      70             |
-| 37.A  |       |   Dorian        |        40       |                   |
+| 37.A  |    14.03.23    |   Dorian        |        40       |                   |
 | 38.A  | 07.03.23      |   Dorian        |         40      |    45               |
-| 39.A  |       |   Dorian        |         40      |                   |
-| 40.A  |       |   Dorian       |         40      |                   |
-| 41.A  |       |    Dorian       |         40      |                   |
+| 39.A  |   14.03.23     |   Dorian        |         40      |                   |
+| 40.A  |   21.03.23     |   Dorian       |         40      |                   |
+| 41.A  |   21.03.23     |    Dorian       |         40      |                   |
 | 42.A  |07.03.23|    Dorian       |         30      |  20              |
 | 43.A  |07.03.23|   Dorian        |         30      |  20              |
 | 44.A  |07.03.23|   Dorian        |         30      |  20              |
 | 45.A  |07.03.23|   Dorian        |         30      |  20              |
 | 46.A  |14.03.23|   Dorian        |          90     |  70              |
-| 47.A  |       |   Dorian        |           90    |                   |
-| 48.A  |       |   Dorian        |             90  |                   |
+| 47.A  |   21.03.23     |   Dorian        |           90    |                   |
+| 48.A  | 21.03.23       |   Dorian        |             90  |                   |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
