@@ -103,11 +103,11 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |11.A|   14.03   | Leonardo      |Im einstellungs Fenster kann man das Hintergrundmenü aufmachen           | 25             |
 |12.A|  21.03    | Leonardo      |Man kann die verschiedenen Schichten des Hintergrunds verändern          | 90              |
 |13.A|   21.03   | Leonardo      |Der Hintergrund passt sich dem eingestellten Hintergrund an              | 30              |
-|14.A|   21.03   | Lennard       |Der Charakter kann in eine der Röhren gehen um zu einem Level zu gelangen| 20              |
+|14.A|   21.03   | Lennard       |Der Spike ist erkennbar und sieht gut aus| 25             |
 |15.A|   14.03   | Lennard       |Der  Charakter kann auf ein Hindernis springen                           | 25            |
 |16.A|  14.03    | Lennard       |Der Charakter kann über Hindernisse springen                             | 30              |
 |17.A|  14.03    | Lennard       |Der Charakter kann unter Hindernissen hindurchsliden                     | 45              |
-|18.A|  21.03    | Lennard       |Im Spiel gibt es kleine hindernisse(Spikes die schaden geben)         | 45              |
+|18.A|  21.03    | Lennard       |Im Spiel gibt es kleine Hindernisse(Spikes die schaden geben)         | 45              |
 |19.A|   21.03   | Lennard       |Diese Spikes haben eine Hitbox          | 45              |
 |20.A|   21.03   | Lennard       |Der Charakter kann sich auf einer fliegenden Plattform bewegen           | 45              |
 |21.A|   21.03   | Lennard       |Wenn man einen dieser Spikes berührt wird man am Start gerespont   | 60  |
