@@ -34,7 +34,7 @@ Wir wollen lernen mit einer für uns neuen Technik mit Unity ein Spiel zu Progra
 |6|kann|     Funktional|     Als User kann ich die Tastenbelegungen verändern, damit verschiedene Spielertypen das Spiel mit ihren eigenen Tasten spielen können.|
 |7|kann|     Funktional|     Als User kann ich die Lautstärke verändern, damit man wenn man die Musik lauter haben möchte sie lauter stellen kann und wenn man sie leiser haben möchte leiser machen kann.|
 |8|kann|     Funktional|     Als User kann ich aussuchen ob ich zu zweit oder alleine spiele, damit man das Spiel auch mit einem Kollegen zusammen Spielen kann.|
-|9|kann|     Funktional|     Als User kann ich Spezialfähigkeiten im Spiel haben, damit man Gegner besiegen kann und ein Level schneller durchspielen kann. |
+|9|kann|     Funktional|     Als User kann ich Spezialmünzen im Spiel aufsammeln, welche mehr Punkte als die normalen Münzen geben, damit man schneller an Punkte kommt. |
 |10|kann|    Funktional|     Als User kann ich im Shop Spezialfähigkeiten und Skins kaufen und freischalten, damit der User nicht immer nur den gleichen Skin spielen muss. |
 |11|muss|    Funktional|     Als User möchte ich, dass ich Levels mehrmals spielen kann, damit man ein Level erneut spielen kann.                            |
 |12|muss|    Funktional|     Als User möchte ich beim Tod des Charakters, das der Charakter respawnt.   |
