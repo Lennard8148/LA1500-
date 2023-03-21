@@ -107,10 +107,10 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |15.A|   14.03   | Lennard       |Der  Charakter kann auf ein Hindernis springen                           | 25            |
 |16.A|  14.03    | Lennard       |Der Charakter kann über Hindernisse springen                             | 30              |
 |17.A|  14.03    | Lennard       |Der Charakter kann unter Hindernissen hindurchsliden                     | 45              |
-|18.A|  21.03    | Lennard       |Der Charakter kann sich in der Weltenauswahl nach Links bewegen          | 45              |
-|19.A|   21.03   | Lennard       |Der Charakter kann sich in der Weltenauswahl nach Rechts bewegen         | 45              |
-|20.A|   21.03   | Lennard       |Der Charakter kann in der Weltenauswahl zu einem Level gehen             | 45              |
-|21.A|   21.03   | Lennard       |Der Charakter kann in der Weltenauswahl in ein Level gehen, indem er in die Röhre vor dem Level springt  | 60  |
+|18.A|  21.03    | Lennard       |Im Spiel gibt es kleine hindernisse(Spikes die schaden geben)         | 45              |
+|19.A|   21.03   | Lennard       |Diese Spikes haben eine Hitbox          | 45              |
+|20.A|   21.03   | Lennard       |Der Charakter kann sich auf einer fliegenden Plattform bewegen           | 45              |
+|21.A|   21.03   | Lennard       |Wenn man einen dieser Spikes berührt wird man am Start gerespont   | 60  |
 |22.A|   07.03   | Lennard       |Der User kann auf einer fligenden Plattform landen                       | 30              |
 |23.A|   07.03   | Lennard       |Der User kann sich auf einer fligenden Plattform bewegen                 | 20              |
 |24.A|   21.03   | Lennard       |Der User kann Spezialmünzen aufsammeln                                   | 20              |
