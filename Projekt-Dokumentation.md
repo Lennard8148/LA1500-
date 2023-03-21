@@ -19,28 +19,28 @@ Rhododendron Leonardo Grigioni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
 Wir machen ein Jump and Run game.
 
 
-Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Programmieren. In diesem Spiel sollte man rennen und Springen können das Spiel sollte in 2 D sein. Es gibt immer Checkpoints für die man aber erst einen Boss Besiegen muss. Wir wollen so viele Level wie möglich machen. Wir wollen auch mit einer für uns neuen Gruppe kennenlernen mit ihnen zu komunizieren und zusammen arbeiten ohne das man dafpr schon mal etwas zusammen gemacht hat.
+Wir wollen lernen mit einer für uns neuen Technik mit Unity ein Spiel zu Programmieren. In diesem Spiel sollte man rennen und springen können. Das Spiel ist im 2D Stil gehalten. Das Ziel des Spiels ist es den Parkour zu schaffen und den Charakter sicher ins Ziel zu bringen, ohne die Spikes berühren. Wir wollen so viele Level wie möglich machen. Ebenfalls wollen wir unsere Gruppe besser kennenlernen. Wir streben auf eine gute Zusammenarbeit, trotzdessen wir uns nicht kennen.
 
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-|1|muss|     Funktional|     Als User kann ich meine figur bewegen, damit man das Spiel spielen kann|
-|2|kann|     Funktional|     Als User kann ich meine figur aussuchen, damit das Spiel nicht so langweilig ist|
-|3|kann|     Funktional|     Als User kann ich mein level aussuchen, damit man nicht nicht nur ein Level spielen kann, sondern auch andere und so abwechslung bekommt|
-|4|kann|     Funktional|     Als User kann ich im Menü den hintergrund aussuchen, damit das Spiel besser aussieht|
-|5|kann|     Funktional|     Als User kann ich im menü das Spiel beenden, damit man das Spiel nicht immer offen haben muss|
+|1|muss|     Funktional|     Als User kann ich meine Figur bewegen, damit man das Spiel spielen kann|
+|2|kann|     Funktional|     Als User kann ich meine Figur aussuchen, damit das Spiel nicht so langweilig ist|
+|3|kann|     Funktional|     Als User kann ich mein Level aussuchen, damit man nicht nicht nur ein Level spielen kann, sondern auch andere und so Abwechslung bekommt|
+|4|kann|     Funktional|     Als User möchte ich einen Hintergrund im Spiel, damit das Spiel besser aussieht|
+|5|kann|     Funktional|     Als User kann ich im Menü das Spiel beenden, damit man das Spiel nicht immer offen haben muss|
 |6|kann|     Funktional|     Als User kann ich die Tastenbelegungen verändern, damit verschiedene Spielertypen das Spiel mit ihren eigenen Tasten spielen können.|
 |7|kann|     Funktional|     Als User kann ich die Lautstärke verändern, damit man wenn man die Musik lauter haben möchte sie lauter stellen kann und wenn man sie leiser haben möchte leiser machen kann.|
-|8|kann|     Funktional|     Als User kann ich aussuchen ob ich zu zweit oder aleine spiele, damit man das Spiel auch mit einem Kollegen zusammen Spielen kann.|
-|9|kann|     Funktional|     Als User kann ich Spezialfähigkeiteiten im Spiel haben, damit man Gegner besiegen kann und ein Level schneller durchspielen kann, kommt auf die Spezialfähigkeit an was man für eine hat. |
-|10|kann|    Funktional|     Als User kann ich im Shop spezialfähigkeiten und skins kaufen und freischalten, damit der User nicht immer nur den gleichen Skin spielen muss, auch Spezialfähigkeiten kann man in einem Level für eine gewisse dauer kaufen mit Münzen|
-|11|muss|    Funktional|     Als User möchte ich das ich Level mehrmals spielen kann, damit wenn man ein Level schon einmal gespielt hat es nochmals zu spielen.                            |
-|12|muss|    Funktional|     Als User möchte ich wenn ich Sterbe bei dem letzten Checkpoint wieder Spannen, damit man nicht immer wenn man stirbt das Level ganz neu Spielen muss.   |
-|13|muss|    Funktional|     Als User möchte ich wenn ich den Endboss des einen Levels besiegt habe in das nächste Level kommen, damit man nicht immer nur in einem Level feststeckt sondern auch noch weitere Level spielen kann.|
-|14|kann|    Funktional|     Als User möchte ich, dass wenn ich alle Level beende, eine Belohnung bekommen, damit es sich lohnt das Spiel durchzuspielen.|
-|15|muss|    Funktional|     Als User möchte das alle Münzen die ich in einem Run sammle in der oberen linken Ecke angezeigt bekommen, damit ich immer weiss wie viele Münzen ich bereits habe.|
+|8|kann|     Funktional|     Als User kann ich aussuchen ob ich zu zweit oder alleine spiele, damit man das Spiel auch mit einem Kollegen zusammen Spielen kann.|
+|9|kann|     Funktional|     Als User kann ich Spezialfähigkeiten im Spiel haben, damit man Gegner besiegen kann und ein Level schneller durchspielen kann. |
+|10|kann|    Funktional|     Als User kann ich im Shop Spezialfähigkeiten und Skins kaufen und freischalten, damit der User nicht immer nur den gleichen Skin spielen muss. |
+|11|muss|    Funktional|     Als User möchte ich, dass ich Levels mehrmals spielen kann, damit man ein Level erneut spielen kann.                            |
+|12|muss|    Funktional|     Als User möchte ich beim Tod des Charakters, das der Charakter respawnt.   |
+|13|muss|    Funktional|     Als User möchte ich, wenn ich den Endboss eines Levels besiegt habe, in das nächste Level kommmen, damit man nicht in einem Level feststeckt sondern auch noch weitere Level spielen kann.|
+|14|kann|    Funktional|     Als User möchte ich, dass wenn ich alle Level beende, eine Belohnung bekomme, damit es sich lohnt das Spiel durchzuspielen.|
+|15|muss|    Funktional|     Als User möchte ich alle Münzen die ich in einem Durchlauf sammle in der oberen linken Ecke angezeigt bekommen, damit ich immer weiss wie viele Münzen ich bereits habe.|
 
 
 
@@ -66,7 +66,7 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |7.1|Spielgestartet, Hauptmenu ist offen         |  Man geht auf den Lautstärken regler und passt die Lautstärke an    |   Die Lautstärke wird angepass.                                 |
 |8.1|Das Spiel ist gestartet, Haupmenu ist offen                | Man geht auf den Knopf "Weiterer Spieler einloggen"     |  Man hat die Möglichkeit einen weiteren Spieler einzuloggen                                  |
 |9.1|Spiel ist gestartet, man ist schon weit im Game               | Man nimmt eine Spezialmüze auf      |   Man hat für eine gewisse Zeit eine Spezialeigenschaft.                                 |
-|10.1|Spiel ist gestartet, Shop offen               |  Man wällt den Skin und oder die Spezialfähigkeit aus und kauft sie sich mit Münzen oder Geld| Man hat Skin und oder Spezialeigenschaft im Inventar.                                    |
+|10.1|Spiel ist gestartet, Shop offen               |  Man wählt den Skin und oder die Spezialfähigkeit aus und kauft sie sich mit Münzen oder Geld| Man hat Skin und oder Spezialeigenschaft im Inventar.                                    |
 |11.1|Spiel ist gestartet, Spiel ist durchgespielt            |  Menu öffnen und auf "Spiel Neustart" drücken    |       Spiel wird neu gestartet                             |
 |12.1|    Spiel gestartet, in einem Level |  Man Stribt    |      Man spannt am letzen Checkpoint                              |
 |13.1|    Spiel gestartet, in einem Level am Schluss           |  Man besiegt den Endboss     |    Man kommt in das neue Level             |
