@@ -137,7 +137,7 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |45.A|   14.03   | Dorian        |Die Arme des Charakters werden gepixelt.            |  30          |
 |46.A|  14.03    | Dorian        |Die animation für das Schleichen des Charakters wird gepixelt.           |  90             |
 |47.A|    21.03  | Dorian        |Die animation für das sliden des Charakters wird gepixelt.            | 90              |
-|48.A|   21.03   | Dorian        |Verschiedene Varianten des Charakters werden gepixelt (diese können anschliessend im Münzenshop gekauft werden)|90 |        
+|48.A|   21.03   | Dorian        |Der Spike wird gepixelt|90 |        
 
 
 Total:
