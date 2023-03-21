@@ -114,7 +114,7 @@ Wir wollen Lernen mit für uns einer neuen Technik mit Unity ein Spiel zu Progra
 |22.A|   07.03   | Lennard       |Der User kann auf einer fligenden Plattform landen                       | 30              |
 |23.A|   07.03   | Lennard       |Der User kann sich auf einer fligenden Plattform bewegen                 | 20              |
 |24.A|   21.03   | Lennard       |Der User kann Spezialmünzen aufsammeln                                   | 20              |
-|25.A|  14.03    | Lennard       |Der User kann im Shop Skins kaufen                                 |  35       |
+|25.A|  14.03    | Lennard       |Wenn der User eine Münze aufsammelt verschwindet diese verschwinden                                |  35       |
 |26.A|  07.03    | Marek         |Der User kann Münzen aufsammeln                               |  30             | 
 |27.A|  14.03    | Marek         |Im Hintergrund gibt es eine Hintergrundebene (Himmel)                      |  20            |
 |28.A|   14.03   | Marek         |Im Hintergrund gibt es eine Ebene für Bäume                       |  20           |
