@@ -33,7 +33,7 @@ Wir wollen lernen mit einer für uns neuen Technik mit Unity ein Spiel zu Progra
 |5|kann|     Funktional|     Als User kann ich im Menü das Spiel beenden, damit man das Spiel nicht immer offen haben muss|
 |6|kann|     Funktional|     Als User kann ich die Tastenbelegungen verändern, damit verschiedene Spielertypen das Spiel mit ihren eigenen Tasten spielen können.|
 |7|kann|     Funktional|     Als User kann ich die Lautstärke verändern, damit man wenn man die Musik lauter haben möchte sie lauter stellen kann und wenn man sie leiser haben möchte leiser machen kann.|
-|8|kann|     Funktional|     Als User kann ich aussuchen ob ich zu zweit oder alleine spiele, damit man das Spiel auch mit einem Kollegen zusammen Spielen kann.|
+|8|kann|     Funktional|     Als User möchte ich fliegende Plattformen im Spiel haben, damit man auf diesen Plattformen hin und her springen kann um die Schwierigkeit zu erhöhen.|
 |9|kann|     Funktional|     Als User kann ich Spezialmünzen im Spiel aufsammeln, welche mehr Punkte als die normalen Münzen geben, damit man schneller an Punkte kommt. |
 |10|kann|    Funktional|     Als User kann ich im Shop Spezialfähigkeiten und Skins kaufen und freischalten, damit der User nicht immer nur den gleichen Skin spielen muss. |
 |11|muss|    Funktional|     Als User möchte ich, dass ich Levels mehrmals spielen kann, damit man ein Level erneut spielen kann.                            |
