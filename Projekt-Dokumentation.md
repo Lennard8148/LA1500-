@@ -82,10 +82,12 @@ Wir wollen lernen mit einer für uns neuen Technik mit Unity ein Spiel zu Progra
 
 ### 1.4 Diagramme
 
-![usecaseLA1500] [Uploading Unbenanntes Diagramm-4.drawio…]()
 
 
-<img width="331" alt="image" src="https://user-images.githubusercontent.com/110893245/220439339-4d22c4c6-dd70-4818-963e-a6a0a1efc3b6.png">
+<img width="619" alt="Bildschirm­foto 2023-03-21 um 08 56 26" src="https://user-images.githubusercontent.com/110892642/226546967-78546566-e5ff-46d0-a749-953911e7c09d.png">
+
+
+
 
 ## 2 Planen
 
