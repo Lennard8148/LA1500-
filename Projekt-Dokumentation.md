@@ -134,7 +134,7 @@ Wir wollen lernen mit einer für uns neuen Technik mit Unity ein Spiel zu Progra
 |36.A|   14.03   | Marek         |Die Anzahl eingesammelter Münzen wird während dem Spiel angezeigt.          |  60             | 
 |37.A|   14.03   | Dorian        |Spezialeigenschaften von eingesammelten Münzen sind auf eine gewisse Zeitdauer beschränkt.          |  40          |
 |38.A|   7.03    | Dorian        |Man hat eine Hintergrundmusik                                          | 40              |
-|39.A|   14.03   | Dorian        |Der User kann im Shop Spezialeigenschaften kaufen                 | 40              |
+|39.A|   21.03   | Dorian        |Der User kann im Shop Spezialeigenschaften kaufen                 | 40              |
 |40.A|   21.03   | Dorian        |Der User hat verschiendene Levels zum Spielen                     | 40              |
 |41.A|   21.03   | Dorian        |Der User hat eine Weltenauswahl auf der die Levels sind           | 40              |
 |42.A|  14.03    | Dorian        |Der Rumpf des Charakters wird gepixelt.                           | 30             |
