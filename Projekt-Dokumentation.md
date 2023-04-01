@@ -7,7 +7,7 @@ Rhododendron Leonardo Grigioni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |  21.02.23     | 0.0.1   | Heute haben wir unser Projekt ausgewählt und mit der Projektdokumentation angefangen|
-|  28.02.23     | 0.0.2     |  Heute haben wir an unserer Projekt dokumentation weitergearbeitet. Wir haben uns über Unity informiert und schon die ersten Arbeitspakete erfüllt.                                                           |
+|  28.02.23     | 0.0.2     |  Heute haben wir an unserer Projektdokumentation weitergearbeitet. Wir haben uns über Unity informiert und schon die ersten Arbeitspakete erfüllt.                                                           |
 |  7.03.23     | 0.0.3   |       Die ersten Arbeitspakete gemacht                                                  |
 |  14.03.23     | 0.0.4   |       Weitere Arbeitspakete gemacht und Dokumentation verbessert                                                  |
 |  21.03.23     | 1.0.0   |        Präsentation fertig gestellt, Arbeitspakete vervollständigt.                                                      |
