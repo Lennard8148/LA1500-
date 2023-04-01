@@ -10,7 +10,7 @@ Rhododendron Leonardo Grigioni, Lennard Bühler, Marek Vonrogall, Dorian Herzig
 |  28.02.23     | 0.0.2     |  Heute haben wir an unserer Projekt dokumentation weitergearbeitet. Wir haben uns über Unity informiert und schon die ersten Arbeitspakete erfüllt.                                                           |
 |  7.03.23     | 0.0.3   |       Die ersten Arbeitspakete gemacht                                                  |
 |  14.03.23     | 0.0.4   |       Weitere Arbeitspakete gemacht und Dokumentation verbessert                                                  |
-|       | 1.0.0   |                                                              |
+|  21.03.23     | 1.0.0   |        Präsentation fertig gestellt, Arbeitspakete vervollständigt.                                                      |
 
 ## 1 Informieren
 
@@ -129,7 +129,7 @@ Wir wollen lernen mit einer für uns neuen Technik mit Unity ein Spiel zu Progra
 |31.A|  14.03    | Marek         |Im Vordergrund gibt es eine Ebene für Gras  |   20        |
 |32.A|  14.03    | Marek         |Im Vordergrund gibt es eine Ebene für den Boden                          |  20             |
 |33.A|  14.03    | Marek         |Die Ebenen erzeugen einen Parallax-Effekt      | 90              | 
-|34.A|  21.03    | Marek         | Nach einem Kauf einer Charaktervariante soll der aktuelle Charakter mit dieser ersetzt werden              | 30       |
+|34.A|  21.03    | Marek         | Wenn man das Ziel berührt, bekommt man eine "Level Completed" Nachricht.             | 30       |
 |35.A|  07.03    | Marek         |Es erscheinen Münzen in den Levels                                | 40              |
 |36.A|   14.03   | Marek         |Die Anzahl eingesammelter Münzen wird während dem Spiel angezeigt.          |  60             | 
 |37.A|   14.03   | Dorian        |Spezialeigenschaften von eingesammelten Münzen sind auf eine gewisse Zeitdauer beschränkt.          |  40          |
@@ -143,7 +143,7 @@ Wir wollen lernen mit einer für uns neuen Technik mit Unity ein Spiel zu Progra
 |45.A|   14.03   | Dorian        |Die Arme des Charakters werden gepixelt.            |  30          |
 |46.A|  14.03    | Dorian        |Die animation für das Schleichen des Charakters wird gepixelt.           |  90             |
 |47.A|    21.03  | Dorian        |Die animation für das sliden des Charakters wird gepixelt.            | 90              |
-|48.A|   21.03   | Dorian        |Der Spike wird gepixelt|90 |        
+|48.A|   21.03   | Dorian        |Der Spike wird gepixelt|20 | 20       
 
 
 Total:
@@ -197,7 +197,7 @@ Total:
 | 31.A  |   14.03.23    |   Marek        |           20    |            20       |
 | 32.A  |  14.03.23     |  Marek         |         20      |            20       |
 | 33.A  |  14.03.23     |  Marek         |         90      |       120            |
-| 34.A  |  21.03.23     |   Marek        |         30      |                   |
+| 34.A  |  21.03.23     |   Marek        |         30      |       30            |
 | 35.A  |   07.03.23    |  Marek         |          40     |      30             |
 | 36.A  |    07.03.23   |  Marek         |         60      |      70             |
 | 37.A  |    14.03.23    |   Dorian        |        40       |                   |
@@ -210,8 +210,8 @@ Total:
 | 44.A  |07.03.23|   Dorian        |         30      |  20              |
 | 45.A  |07.03.23|   Dorian        |         30      |  20              |
 | 46.A  |14.03.23|   Dorian        |          90     |  70              |
-| 47.A  |   21.03.23     |   Dorian        |           90    |                   |
-| 48.A  | 21.03.23       |   Dorian        |             90  |                   |
+| 47.A  |   21.03.23     |   Dorian        |           90    |     90              |
+| 48.A  | 21.03.23       |   Dorian        |             20  |          20         |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
