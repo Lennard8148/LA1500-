@@ -51,11 +51,9 @@ Wir haben gelernt wie man die Tastensteuerungen programmiert um die Figur so zu 
             isJumping = true;
         }
     }
-    
-  // OnCollisionExit2D ist dazu da, dass man keine Doppellsprünge macht in dem man die taste wiederholt betätigt.
-  // OnCollisionEnter2D ist dazu da, dass man wieder Springen kann, wenn man landet.
 ```
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+OnCollisionExit2D ist dazu da, dass man keine Doppelsprünge macht in dem man die Taste wiederholt betätigt.
+OnCollisionEnter2D ist dazu da, dass man wieder springen kann, wenn man landet.
 
 ## Verifikation
 
