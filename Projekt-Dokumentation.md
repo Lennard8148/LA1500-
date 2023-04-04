@@ -152,11 +152,11 @@ Total:
 
 
 ## 3 Entscheiden
-1: Wir haben uns entschieden unser Spiel mit Unity zu machen weil wir alsGruppe noch nie damit gearbeitet haben und es kennenlernen wollen.
+1: Wir haben dazu uns entschieden unser Spiel mit Unity zu machen, weil wir als Gruppe noch nie damit gearbeitet haben und es kennenlernen wollen.
 
-2: Wir haben uns dazu entschieden dass wir alles wie ein Pixelart gestalten damit wir eine feste Resolution haben und damit man das Spiel auf tiefer Resolution spielen kann.
+2: Wir haben uns dazu entschieden, dass wir alles im Pixelart-Stil gestalten, damit die Figuren einfacher zum gestalten sind, und das Spiel dennoch visuell ansprechend ist.
 
-3: Wir haben uns entschieden das wir unsere Karakere selbst Zeichnen weil wird das schon können.
+3: Wir haben uns dazu entschieden, dass wir unsere Charaktere selbst pixeln, weil wir das schon können.
 
 
 ## 4 Realisieren
@@ -236,7 +236,7 @@ Total:
 | 15.1  |  4.04.2023     |  Funktioniert        |  Lennard      |
 
 `Fazit:`
-Die wichtigsten Teile des Programmes sind mit Erfolg ausgegangen, somit ist unser Programm spielbar. Doch Leider konnten wir wegen geringer Zeit nicht alle unsere Wünsche für das Programm erfüllen.
+Die wichtigsten Teile des Programmes sind mit Erfolg ausgegangen, somit ist unser Programm spielbar. Doch Leider konnten wir aufgrund der geringen Zeitanforderungen nicht alle unsere Wünsche für das Programm erfüllen.
 
 ### 5.2 Exploratives Testen
 
