@@ -10,7 +10,7 @@ Wir haben einen Level-Runner ähnlich wie Mario programmiert.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben gelernt wie man die Figur sich so bewegen lässt wie in Mario.
 
 ## Beschreibung
 
