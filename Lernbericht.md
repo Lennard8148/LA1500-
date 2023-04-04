@@ -56,14 +56,15 @@ Ausserdem kann unser Chrakter sprinten. Um dies zu erreichen, erhöhen wir die B
     }
 ```
 
-`Video  :`[Video](LA1500-Video.mp4)
+`Video  :`
+[Video](LA1500-Video.mp4)
 
 ## Verifikation
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
 * `Code:` Dieser Code ist ein Beispiel, denn man für das Programm benutzen kann.
 
-* `Gif:` Das Gif dient zur Demonstration des Programmes.
+* `Gif:` Das Video dient zur Demonstration des Programmes.
 
 # Reflexion zum Arbeitsprozess
 
