@@ -10,7 +10,8 @@ Gruppenname: ``Rhododendron`` Gruppenmitglieder: ``Leonardo Grigioni, Lennard B�
 |  28.02.23     | 0.0.2     |  Heute haben wir an unserer Projektdokumentation weitergearbeitet. Wir haben uns über Unity informiert und schon die ersten Arbeitspakete erfüllt.                                                           |
 |  7.03.23     | 0.0.3   |       Die ersten Arbeitspakete gemacht                                                  |
 |  14.03.23     | 0.0.4   |       Weitere Arbeitspakete gemacht und Dokumentation verbessert                                                  |
-|  21.03.23     | 1.0.0   |        Präsentation fertig gestellt, Arbeitspakete vervollständigt.                                                      |
+|  21.03.23     | 0.0.5   |        Präsentation fertig gestellt, Arbeitspakete vervollständigt.                                                      |
+|  04.04.23 | 1.0.0 | Wir haben die Projektdokumentation und den Lernbericht abgeschlossen. |
 
 ## 1 Informieren
 
@@ -19,7 +20,7 @@ Gruppenname: ``Rhododendron`` Gruppenmitglieder: ``Leonardo Grigioni, Lennard B�
 Wir machen ein Jump and Run game.
 
 
-Wir wollen lernen mit einer für uns neuen Technik mit Unity ein Spiel zu Programmieren. In diesem Spiel sollte man rennen und springen können. Das Spiel ist im 2D Stil gehalten. Das Ziel des Spiels ist es den Parkour zu schaffen und den Charakter sicher ins Ziel zu bringen, ohne die Spikes berühren. Wir wollen so viele Level wie möglich machen. Ebenfalls wollen wir unsere Gruppe besser kennenlernen. Wir streben auf eine gute Zusammenarbeit, trotzdessen wir uns nicht kennen.
+Wir wollen lernen mit einer für uns neuen Technik ein Spiel zu Programmieren. Wir haben uns für Unity entschieden. In diesem Spiel sollte man rennen und springen können. Das Spiel ist im 2D-Stil gehalten. Das Ziel des Spiels ist es den Parkour zu schaffen und den Charakter sicher ins Ziel zu bringen, ohne die Spikes berühren. Wir wollen so viele Level wie möglich machen. Ebenfalls wollen wir unsere Gruppe besser kennenlernen. Wir streben auf eine gute Zusammenarbeit, trotzdessen wir uns nicht kennen.
 
 
 ### 1.2 User Stories
