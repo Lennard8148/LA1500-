@@ -107,7 +107,7 @@ Wir wollen lernen mit einer für uns neuen Technik mit Unity ein Spiel zu Progra
 |9.A|    14.03   | Leonard       |Das Level ist das ausgesuchte                                     | 45              |
 |10.A|   14.03   | Leonardo      |Das einstellungs Fenster geht auf                                 | 25         |
 |11.A|   14.03   | Leonardo      |Im einstellungs Fenster kann man das Hintergrundmenü aufmachen           | 25             |
-|12.A|  21.03    | Leonardo      |Man kann die verschiedenen Schichten des Hintergrunds verändern          | 90              |
+|12.A|  21.03    | Leonardo      |Es gibt verschiedenen Schichten im Hintergrunds           | 90              |
 |13.A|   21.03   | Leonardo      |Der Hintergrund passt sich dem eingestellten Hintergrund an              | 30              |
 |14.A|   21.03   | Lennard       |Der Spike erscheint im Level| 25             |
 |15.A|   14.03   | Lennard       |Der  Charakter kann auf ein Hindernis springen                           | 25            |
