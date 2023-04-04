@@ -236,7 +236,7 @@ Total:
 | 14.1  |   4.04.2023    |   Funktioniert       |   Lennard     |
 | 15.1  |  4.04.2023     |  Funktioniert        |  Lennard      |
 
-'Fazit:'
+`Fazit:`
 Die wichtigsten Teile des Programmes sind mit Erfolg ausgegangen, somit ist unser Programm spielbar. Doch Leider konnten wir wegen geringer Zeit nicht alle unsere Wünsche für das Programm erfüllen.
 
 ### 5.2 Exploratives Testen
