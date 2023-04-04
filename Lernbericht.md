@@ -16,7 +16,7 @@ In diesem Projekt haben wir gelernt, wie man mit Tasten eingaben, verschiedene B
 
 `Code:`
 
-```
+``` C#
     {
         Move = Input.GetAxis("Horizontal");
 
