@@ -54,8 +54,7 @@ OnCollisionExit2D ist dazu da, dass man keine Doppelsprünge macht in dem man di
 OnCollisionEnter2D ist dazu da, dass man wieder springen kann, wenn man landet.
 
 `Video  :`
-[Video Link](https://github.com/Lennard8148/LA1500/LA1500-Video.mp4)
-
+[Video Link][here](LA1500/LA1500-Video.mp4)
 ## Verifikation
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
