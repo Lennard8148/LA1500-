@@ -16,14 +16,45 @@ Wir haben gelernt wie man die Figur sich so bewegen lässt wie in Mario.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-
+Wir haben gelernt wie man die Tastensteuerungen programmiert um die Figur so zu bewegen wie in Mario.
 
 ```
-boolean Code = False;
- ```
+    {
+        Move = Input.GetAxis("Horizontal");
 
+        rb.velocity = new Vector2(speed * Move, rb.velocity.y);
+
+        if (Input.GetButtonDown("Jump") && isJumping == false)
+        {
+            rb.AddForce(new Vector2(rb.velocity.x, jump), ForceMode2D.Impulse);
+        }
+
+        bool sprint = Input.GetKey("left shift");
+        if (sprint == true) { speed = 20; }
+        else { speed = 9; }
+    }
+    
+    private void OnCollisionEnter2D(Collision2D other)
+    
+    {
+        if(other.gameObject.CompareTag("Floor"))
+        {
+            isJumping = false;
+        }
+    }
+    
+    private void OnCollisionExit2D(Collision2D other)
+    
+    {
+        if (other.gameObject.CompareTag("Floor"))
+        {
+            isJumping = true;
+        }
+    }
+    
+  // OnCollisionExit2D ist dazu da, dass man keine Doppellsprünge macht in dem man die taste wiederholt betätigt.
+  // OnCollisionEnter2D ist dazu da, dass man wieder Springen kann, wenn man landet.
+```
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
