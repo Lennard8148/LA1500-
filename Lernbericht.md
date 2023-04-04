@@ -6,7 +6,7 @@ Lennard Bühler, Marek von Rogall, Dorian Herzig, Leonardo Grigioni
 
 ## Einleitung
 
-Wir haben in Unity ein Jump 'n' Run Spiel programmiert, das dem Spiel Super-Mario ähnelt. Bei unserem Spiel muss man von einem Start über Hindernisse und Fallen springen und das Ziel erreichen.
+Wir haben in Unity ein Jump 'n' Run Spiel programmiert, welches dem Spiel Super-Mario ähnelt. Bei unserem Spiel muss man von einem Start über Hindernisse und Fallen springen und das Ziel erreichen.
 
 ## Was habe ich gelernt?
 
