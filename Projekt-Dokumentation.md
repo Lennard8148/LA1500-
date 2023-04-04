@@ -212,7 +212,7 @@ Total:
 | 46.A  |14.03.23|   Dorian        |          90     |  70              |
 | 47.A  |   21.03.23     |   Dorian        |           90    |     90              |
 | 48.A  | 21.03.23       |   Dorian        |             20  |          20         |
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -220,10 +220,22 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |    4.04.2023   |   Funktioniert       |        |
+| 2.1  |   4.04.2023    |   Funktioniert nicht       |        |
+| 3.1  |   4.04.2023    |  Funktioniert nicht        |        |
+| 4.1  |    4.04.2023   |    Funktioniert      |        |
+| 5.1  |   4.04.2023    |    Funktioniert      |        |
+| 6.1  |  4.04.2023     |   Funktioniert nicht       |        |
+| 7.1  |  4.04.2023     |    Funktioniert nicht      |        |
+| 8.1  |   4.04.2023    |    Funktioniert      |        |
+| 9.1  |    4.04.2023   |    Funktioniert     |        |
+| 10.1  |   4.04.2023    |   Funktioniert       |        |
+| 11.1  |   4.04.2023    |   Funktioniert nicht       |        |
+| 12.1  |   4.04.2023    |   Funktioniert        |        |
+| 13.1  |   4.04.2023    |   Funktioniert nicht       |        |
+| 14.1  |   4.04.2023    |   Funktioniert       |        |
+| 15.1  |  4.04.2023     |  Funktioniert        |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
 
