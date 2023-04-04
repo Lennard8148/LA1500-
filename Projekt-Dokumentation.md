@@ -33,12 +33,12 @@ Wir wollen lernen mit einer für uns neuen Technik ein Spiel zu Programmieren. W
 |4|kann|     Funktional|     Als User möchte ich einen Hintergrund im Spiel, damit das Spiel besser aussieht|
 |5|kann|     Funktional|     Als User kann ich im Menü das Spiel beenden, damit man das Spiel nicht immer offen haben muss|
 |6|kann|     Funktional|     Als User kann ich die Tastenbelegungen verändern, damit verschiedene Spielertypen das Spiel mit ihren eigenen Tasten spielen können.|
-|7|kann|     Funktional|     Als User kann ich die Lautstärke verändern, damit man wenn man die Musik lauter haben möchte sie lauter stellen kann und wenn man sie leiser haben möchte leiser machen kann.|
+|7|kann|     Funktional|     Als User kann ich die Lautstärke verändern, damit man, wenn man die Musik lauter haben möchte, sie lauter stellen kann und wenn man sie leiser haben möchte leiser machen kann.|
 |8|kann|     Funktional|     Als User möchte ich fliegende Plattformen im Spiel haben, damit man auf diesen Plattformen hin und her springen kann um die Schwierigkeit zu erhöhen.|
 |9|kann|     Funktional|     Als User kann ich Spezialmünzen im Spiel aufsammeln, welche mehr Punkte als die normalen Münzen geben, damit man schneller an Punkte kommt. |
 |10|kann|    Funktional|     Als User kann ich im Shop Spezialfähigkeiten und Skins kaufen und freischalten, damit der User nicht immer nur den gleichen Skin spielen muss. |
 |11|muss|    Funktional|     Als User möchte ich, dass ich Levels mehrmals spielen kann, damit man ein Level erneut spielen kann.                            |
-|12|muss|    Funktional|     Als User möchte ich beim Tod des Charakters, das der Charakter respawnt.   |
+|12|muss|    Funktional|     Als User möchte ich beim Tod des Charakters, dass der Charakter respawnt.   |
 |13|muss|    Funktional|     Als User möchte ich, wenn ich den Endboss eines Levels besiegt habe, in das nächste Level kommmen, damit man nicht in einem Level feststeckt sondern auch noch weitere Level spielen kann.|
 |14|kann|    Funktional|     Als User möchte ich, dass wenn ich alle Level beende, eine Belohnung bekomme, damit es sich lohnt das Spiel durchzuspielen.|
 |15|muss|    Funktional|     Als User möchte ich alle Münzen die ich in einem Durchlauf sammle in der oberen linken Ecke angezeigt bekommen, damit ich immer weiss wie viele Münzen ich bereits habe.|
@@ -53,26 +53,26 @@ Wir wollen lernen mit einer für uns neuen Technik ein Spiel zu Programmieren. W
 
 | TC-№   | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ----   | ------------ | ------- | ----------------- |
-|1.1|Das Spiel ist offen.                     |Tasten Eingabe     |Die Figur bewegt sich.                               |
-|2.1|Das Hauptmenü ist offen.                 |Man klick auf die option im Menü      |Das Figuren Menü geht auf                                    |
-|2.2|Das Figuren Menü ist offen.              |Man klickt auf die Gegenstände die man ausrüsten will.      |Der Gegenstand wird angezogen   |
-|3.1|Das Hauptmenü ist offen.                 |Man klickt auf Spielen       |Es öffnet sich ein Fenster mit einer Minimap auf der die Levels sind. |
-|3.2|Man ist auf der Minimap                  |Man geht auf die Level Röhre die man will     |Das Level wird gestartet         |
-|4.1|Das Hauptmenü ist offen.                 |Man klickt auf den Hintergrund      |Das Hintergrund veränderungs Menü geht auf |
-|4.2|Das Hintergrund-Menü ist offen           |Man klickt auf den Hintergrund den Man will      |Der Hintergrund verändert sich|
+|1.1|Das Spiel ist offen.                     | Tasteneingabe (A, D, Leerzeichen)     |Die Figur bewegt sich.                               |
+|2.1|Das Hauptmenü ist offen.                 |Man klickt auf die Figurenschaltfläche im Menü.      | Das Figurenmenü wird geöffnet.                     |
+|2.2|Das Figuren Menü ist offen.              |Man klickt auf die Gegenstände die man ausrüsten will.      |Der Gegenstand wird angezogen.   |
+|3.1|Das Hauptmenü ist offen.                 |Man klickt auf Spielen.       |Ein Fenster mit der Levelauswahl wird geöffnet. |
+|3.2|Man ist in der Levelauswahl.                  |Man springt in die Levelröhre um das gewünschte Level auszuwählen.     |Das Level wird gestartet.         |
+|4.1|Das Hauptmenü ist offen.                 |Man klickt auf den Hintergrund.      |Das Menü für die Veränderung des Hintergrunds wird geöffnet. |
+|4.2|Das Hintergrund-Menü ist offen.           |Man klickt auf den den gewünschten Hintergrund.      |Der Hintergrund verändert sich.|
 |5.1|Das Hauptmenü ist offen.                 |Man klickt auf den "Spiel verlassen" Knopf.      |Das Spiel schliest sich.                  |
 |6.1|Das Hauptmenü ist offen.                 |Man klickt auf den "Einstellungen" Knopf      |Es öffnet sich das Einstellungen Fenster          |
-|6.2|Das Einstellungen Fenster ist offen      |Man klickt auf den "Tastenbelegungen verändern" Knopf.      |Es öffnet sich das Tastenmenü  |
-|6.3|Das Tastenmenü ist offen.                |Man klickt auf die Ausgabe die man Belegen will und Klickt auf die Taste die Man benutzen will.|Es steht das die Taste verändert wurde.|
-|7.1|Spielgestartet, Hauptmenu ist offen         |  Man geht auf den Lautstärken regler und passt die Lautstärke an    |   Die Lautstärke wird angepass.                                 |
-|8.1|Das Spiel ist gestartet, Haupmenu ist offen                | Man geht auf den Knopf "Weiterer Spieler einloggen"     |  Man hat die Möglichkeit einen weiteren Spieler einzuloggen                                  |
-|9.1|Spiel ist gestartet, man ist schon weit im Game               | Man nimmt eine Spezialmüze auf      |   Man hat für eine gewisse Zeit eine Spezialeigenschaft.                                 |
+|6.2|Das Einstellungen Fenster ist offen.      |Man klickt auf den "Tastenbelegungen verändern" Knopf.      |Es öffnet sich das Menü zum verändern der Tastenbelegungen.  |
+|6.3|Das Tastenmenü ist offen.                |Man klickt auf die Ausgabe die man belegen will und klickt auf die Taste die man benutzen will.|Es steht, dass die Taste verändert wurde.|
+|7.1|Spielgestartet, Hauptmenü ist offen.         |  Man passt mittels Lautstärkeregler die Lautstärke an.    |   Die Lautstärke wird angepasst.                                 |
+|8.1|Das Spiel ist gestartet, Das Level wurde betreten                | Man springt mit Leerzeichen auf eine Plattform.     |  Man kann von Plattform zu Plattform springen.                              |
+|9.1|Spiel ist gestartet, das Level wurde betreteten.               | Eine Spezialmünze wurde aufgesammelt.      |   Der Spieler erhält 2 Punkte.                               |
 |10.1|Spiel ist gestartet, Shop offen               |  Man wählt den Skin und oder die Spezialfähigkeit aus und kauft sie sich mit Münzen oder Geld| Man hat Skin und oder Spezialeigenschaft im Inventar.                                    |
-|11.1|Spiel ist gestartet, Spiel ist durchgespielt            |  Menu öffnen und auf "Spiel Neustart" drücken    |       Spiel wird neu gestartet                             |
-|12.1|    Spiel gestartet, in einem Level |  Man Stribt    |      Man spannt am letzen Checkpoint                              |
-|13.1|    Spiel gestartet, in einem Level am Schluss           |  Man besiegt den Endboss     |    Man kommt in das neue Level             |
-|14.1|    Spiel gestartet             |   Alle Level abgeschlossen    |        Der User bekommt eine kleine Belonung                            |
-|15.1|    Spiel gestartet, in einem Level             | Der Spieler nimmt eine Münze auf      |   Diese Münze wird im Menu nacher angezeigt und man kann sie benutzen                                 |
+|11.1|Spiel ist gestartet, das Level wurde so eben beendet.            |  Der Spieler berührt die Schaltfläche "Level neustarten"    |      Das Level wird neugestartet.                             |
+|12.1|    Spiel gestartet, Level wurde betreten, der Charakter steht vor einen Spike |  Der Charakter berührt den Spike    |      Das Level wird neugestartet                              |
+|13.1|    Spiel gestartet, Level betreten, Level wurde fast beendet; man befindet sich vor dem Endboss des Levels           |  Man besiegt den Endboss     |    Der Charakter betritt das neue Level.             |
+|14.1|    Spiel gestartet             |   Alle Level wurden abgeschlossen    |        Der User bekommt eine kleine Belonung.                            |
+|15.1|    Spiel gestartet, ein Level wurde betreten             | Der Spieler nimmt eine Münze auf, der Score erhöht sich um 1      |  Die Anzahl Punkte wird in der oberen linken Ecke angezeigt.            |
 
 
 
