@@ -73,3 +73,4 @@ Ausserdem kann unser Chrakter sprinten. Um dies zu erreichen, erhöhen wir die B
 👎 Bei unserer Gruppe hatten wir das Problem, dass wir die Daten nur lokal gespeichert haben. Aufgrund dessen ist uns leider ein grosser Teil unserer Arbeit verloren gegangen. Zudem brauchten wir am Anfang einige Zeit um zu entscheiden, welches Thema wir nehmen wollten. Unsere Arbeitseinteilung war mangelhaft. Die Informieren & Planen Schritte von IPERKA sind uns nicht so gut gelungen.
 
 **VBV**: 
+Ein Verbesserungsvorschlag für uns wäre, dass wir das nächste Mal unsere Daten immer wieder in der Cloud speichern sollen, da bei uns ein Laptop einen Schaden erlitten hat und haben dadurch Datenverlust erlitten.
