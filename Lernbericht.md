@@ -70,6 +70,6 @@ Ausserdem kann unser Chrakter sprinten. Um dies zu erreichen, erhöhen wir die B
 
 👍In unserer Gruppenarbeit haben wir kompakt und gezielt gearbeitet, wenn ein Ziel als Gruppe zu erreichen war.
 
-👎 Bei unserer Gruppe hatten wir das Problem, dass wir Datenverlust erlitten haben und dadurch sind bestimmte Sachen verloren gegangen. Zudem brauchten wir einige Zeit, um zu entscheiden, welches Thema wir am Anfang nehmen wollten. Auch das Einteilen der Arbeit fiel uns schwer, da wir uns oft gegenseitig Arbeit geholfen und sozusagen Gruppenarbeit gamacht.
+👎 Bei unserer Gruppe hatten wir das Problem, dass wir die Daten nur lokal gespeichert haben. Aufgrund dessen ist uns leider ein grosser Teil unserer Arbeit verloren gegangen. Zudem brauchten wir am Anfang einige Zeit um zu entscheiden, welches Thema wir nehmen wollten. Unsere Arbeitseinteilung war mangelhaft. Die Informieren & Planen Schritte von IPERKA sind uns nicht so gut gelungen.
 
 **VBV**: 
