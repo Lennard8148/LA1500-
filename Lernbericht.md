@@ -53,7 +53,7 @@ In diesem Projekt haben wir gelernt, wie man mit Tasten eingaben, verschiedene B
 OnCollisionExit2D ist dazu da, dass man keine Doppelsprünge macht in dem man die Taste wiederholt betätigt.
 OnCollisionEnter2D ist dazu da, dass man wieder springen kann, wenn man landet.
 
-`Video  :`
+`Video  :`[a relative link]la1500-video.mp4
 
 ## Verifikation
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
