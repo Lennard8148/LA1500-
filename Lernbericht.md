@@ -56,7 +56,7 @@ Ausserdem kann unser Chrakter sprinten. Um dies zu erreichen, erhöhen wir die B
     }
 ```
 
-`Video  :`
+`Video:`
 [Video](LA1500-Video.mp4)
 
 ## Verifikation
