@@ -253,3 +253,4 @@ Die wichtigsten Teile des Programmes sind mit Erfolg ausgegangen, somit ist unse
 
 ## 6 Auswerten
 
+Link zum Lernbericht: https://github.com/Lennard8148/LA1500-/blob/main/Lernbericht.md
