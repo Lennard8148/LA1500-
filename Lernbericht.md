@@ -1,11 +1,12 @@
 
 
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Rhododendron:
+Lennard Bühler, Marek von Rogall, Dorian Herzig, Leonardo Grigioni
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir haben einen Level-Runner ähnlich wie Mario programmiert.
 
 ## Was habe ich gelernt?
 
