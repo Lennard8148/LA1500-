@@ -66,6 +66,6 @@ OnCollisionEnter2D ist dazu da, dass man wieder springen kann, wenn man landet.
 
 👍In unserer Gruppenarbeit haben wir kompakt und gezielt gearbeitet, wenn ein Ziel als Gruppe zu erreichen war.
 
-👎 Bei unserer Gruppe hatten wir das Problem, dass wir Datenverlust erlitten haben und dadurch sind bestimmte Sachen verloren gegangen. Zudem brauchten wir einige Zeit, um zu entscheiden, welches Thema wir nehmen wollen.
+👎 Bei unserer Gruppe hatten wir das Problem, dass wir Datenverlust erlitten haben und dadurch sind bestimmte Sachen verloren gegangen. Zudem brauchten wir einige Zeit, um zu entscheiden, welches Thema wir am Anfang nehmen wollten. Auch das Einteilen der Arbeit fiel uns schwer, da wir uns oft gegenseitig Arbeit geholfen und sozusagen Gruppenarbeit gamacht.
 
 **VBV**: 
