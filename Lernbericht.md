@@ -55,9 +55,13 @@ Wir haben gelernt wie man die Tastensteuerungen programmiert um die Figur so zu 
 OnCollisionExit2D ist dazu da, dass man keine Doppelsprünge macht in dem man die Taste wiederholt betätigt.
 OnCollisionEnter2D ist dazu da, dass man wieder springen kann, wenn man landet.
 
-## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+## Verifikation
+* `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
+
+* `Code:` Dieser Code ist ein Beispiel, denn man für das Programm benutzen kann.
+
+* `Gif:` Das Gif dient zur Demonstration des Programmes.
 
 # Reflexion zum Arbeitsprozess
 
