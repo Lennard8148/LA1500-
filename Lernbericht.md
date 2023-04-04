@@ -65,8 +65,7 @@ OnCollisionEnter2D ist dazu da, dass man wieder springen kann, wenn man landet.
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍In unserer Gruppenarbeit haben wir kompakt und gezielt gearbeitet, wenn ein Ziel als Gruppe zu erreichen war.
+👎 wir hatten viele technische Probleme was dazu führte das wir arbeit verloren oder arbeit nicht alle machen konnten.
 
-👎 und etwas, was nicht gut lief.
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: 
