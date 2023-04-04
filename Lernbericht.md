@@ -6,11 +6,11 @@ Lennard Bühler, Marek von Rogall, Dorian Herzig, Leonardo Grigioni
 
 ## Einleitung
 
-Wir haben in Unity einen Jump and Run Spiel programmiert das dem Spiel Super-Mario ähnelt, bei unserem Spiel muss man von einem Start über Hindernisse und Fallen springen und rennen bis man zum Ende kommt.
+Wir haben in Unity ein Jump 'n' Run Spiel programmiert, das dem Spiel Super-Mario ähnelt. Bei unserem Spiel muss man von einem Start über Hindernisse und Fallen springen und das Ziel erreichen.
 
 ## Was habe ich gelernt?
 
-In diesem Projekt haben wir gelernt, wie man mit Tasten eingaben, verschiedene Bewegungen in einer 2D-Welt von Unity programmieren kann, damit unser Charakter sich bewegen kann.
+In diesem Projekt haben wir gelernt, wie man mit Tasteneingaben, verschiedene Bewegungen in einer 2D-Welt von Unity programmieren kann, damit unser Charakter sich bewegen kann.
 
 ## Code-Erklärung
 
@@ -62,15 +62,15 @@ Ausserdem kann unser Chrakter sprinten. Um dies zu erreichen, erhöhen wir die B
 ## Verifikation
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
-* `Code:` Dieser Code ist ein Beispiel, denn man für das Programm benutzen kann.
+* `Code:` Dieser Code ist die Bewegung unseres Charakteres in unserem Programm.
 
 * `Video:` Das Video dient zur Demonstration des Programmes.
 
 # Reflexion zum Arbeitsprozess
 
-👍In unserer Gruppenarbeit haben wir kompakt und gezielt gearbeitet, wenn ein Ziel als Gruppe zu erreichen war.
+👍 Bei unserer Arbeit lief gut, dass wir uns schnell in Unity einarbeiten konnten. Dadurch konnten wir schon schnell unsere ersten Arbeitspakete erledigen.
 
 👎 Bei unserer Gruppe hatten wir das Problem, dass wir die Daten nur lokal gespeichert haben. Aufgrund dessen ist uns leider ein grosser Teil unserer Arbeit verloren gegangen. Zudem brauchten wir am Anfang einige Zeit um zu entscheiden, welches Thema wir nehmen wollten. Unsere Arbeitseinteilung war mangelhaft. Die Informieren & Planen Schritte von IPERKA sind uns nicht so gut gelungen.
 
 **VBV**: 
-Ein Verbesserungsvorschlag für uns wäre, dass wir das nächste Mal unsere Daten immer wieder in der Cloud speichern sollten, da bei uns ein Laptop einen Schaden erlitten hat und dadurch haben wir einen Datenverlust erlitten.
+Aufgrund dessen, dass einer unserer Laptops einen Schaden erlitten hat, und wir folglich einen grossen Teil unserer Arbeit verloren haben, werden wir in Zukunft die Daten regelmässig in der Cloud abspeichern, um die Daten in solch einem Fall nicht zu verlieren.
