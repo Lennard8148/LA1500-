@@ -220,21 +220,21 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |    4.04.2023   |   Funktioniert       |        |
-| 2.1  |   4.04.2023    |   Funktioniert nicht       |        |
-| 3.1  |   4.04.2023    |  Funktioniert nicht        |        |
-| 4.1  |    4.04.2023   |    Funktioniert      |        |
-| 5.1  |   4.04.2023    |    Funktioniert      |        |
-| 6.1  |  4.04.2023     |   Funktioniert nicht       |        |
-| 7.1  |  4.04.2023     |    Funktioniert nicht      |        |
-| 8.1  |   4.04.2023    |    Funktioniert      |        |
-| 9.1  |    4.04.2023   |    Funktioniert     |        |
-| 10.1  |   4.04.2023    |   Funktioniert       |        |
-| 11.1  |   4.04.2023    |   Funktioniert nicht       |        |
-| 12.1  |   4.04.2023    |   Funktioniert        |        |
-| 13.1  |   4.04.2023    |   Funktioniert nicht       |        |
-| 14.1  |   4.04.2023    |   Funktioniert       |        |
-| 15.1  |  4.04.2023     |  Funktioniert        |        |
+| 1.1  |    4.04.2023   |   Funktioniert       |  Lennard      |
+| 2.1  |   4.04.2023    |   Funktioniert nicht       |  Lennard      |
+| 3.1  |   4.04.2023    |  Funktioniert nicht        |  Lennard      |
+| 4.1  |    4.04.2023   |    Funktioniert      | Lennard       |
+| 5.1  |   4.04.2023    |    Funktioniert      |  Lennard      |
+| 6.1  |  4.04.2023     |   Funktioniert nicht       | Lennard       |
+| 7.1  |  4.04.2023     |    Funktioniert nicht      | Lennard       |
+| 8.1  |   4.04.2023    |    Funktioniert      | Lennard       |
+| 9.1  |    4.04.2023   |    Funktioniert     |  Lennard      |
+| 10.1  |   4.04.2023    |   Funktioniert       | Lennard       |
+| 11.1  |   4.04.2023    |   Funktioniert nicht       | Lennard       |
+| 12.1  |   4.04.2023    |   Funktioniert        | Lennard       |
+| 13.1  |   4.04.2023    |   Funktioniert nicht       |  Lennard      |
+| 14.1  |   4.04.2023    |   Funktioniert       |   Lennard     |
+| 15.1  |  4.04.2023     |  Funktioniert        |  Lennard      |
 
 
 ### 5.2 Exploratives Testen
