@@ -2,7 +2,7 @@
 
 # Projekt-Dokumentation
 
-Gruppenname: ``Rhododendron`` Gruppenmitglieder: ``Leonardo Grigioni, Lennard Bühler, Marek Von Rogall, Dorian Herzig``
+Gruppenname: ``Rhododendron`` Gruppenmitglieder: ``Leonardo Grigioni, Lennard Bühler, Marek von Rogall, Dorian Herzig``
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
