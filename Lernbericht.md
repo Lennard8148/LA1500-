@@ -6,17 +6,13 @@ Lennard Bühler, Marek von Rogall, Dorian Herzig, Leonardo Grigioni
 
 ## Einleitung
 
-Wir haben einen Level-Runner ähnlich wie Mario programmiert.
+Wir haben in Unity einen Jump and Run Spiel programmiert das dem Spiel Super-Mario ähnelt, bei unserem Spiel muss man von einem Start über Hindernisse und Fallen springen und rennen bis man zum Ende kommt.
 
 ## Was habe ich gelernt?
 
-Wir haben gelernt wie man die Figur sich so bewegen lässt wie in Mario.
+In diesem Projekt haben wir gelernt, wie man mit Tasten eingaben, verschiedene Bewegungen in einer 2D-Welt von Unity programmieren kann, damit unser Charakter sich bewegen kann.
 
-## Beschreibung
-
-`Text:`
-
-Wir haben gelernt wie man die Tastensteuerungen programmiert um die Figur so zu bewegen wie in Mario.
+## Code-Erklärung
 
 `Code:`
 
