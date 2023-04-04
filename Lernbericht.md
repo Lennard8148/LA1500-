@@ -14,6 +14,11 @@ In diesem Projekt haben wir gelernt, wie man mit Tasten eingaben, verschiedene B
 
 ## Code-Erklärung
 
+Als erstes wird das laufen des Charakters nach links und rechts definiert. Unity macht das quasi automatisch und es sind keine weiteren Tastenzuweisungen notwendig.
+Anschliessend haben wir den Sprung des Charakters eingebaut. Dies war etwas komplizerter, da wir das unendliche Springen in der Luft vermeiden wollten.
+Dazu haben wir zwei Funktionen erstellt. OnCollisionExit2D() soll schauen ob der Spieler den Boden verlässt. Wenn dies geschehen ist, kann der Spieler erst wieder springen, wenn durch die Funktion OnCollisionEnter2D() festgestellt wurde, dass der Spieler den Boden wieder berührt hat.
+Ausserdem kann unser Chrakter sprinten. Um dies zu erreichen, erhöhen wir die Bewegungsgeschwindigkeit, wenn die Shift-Taste gedrückt wird, und setzten die Bewegungsgeschwindigkeit wieder auf den ursprünglichen Wert zurück, wenn diese nicht mehr gedrückt wird.
+
 `Code:`
 
 ``` C#
@@ -50,11 +55,9 @@ In diesem Projekt haben wir gelernt, wie man mit Tasten eingaben, verschiedene B
         }
     }
 ```
-OnCollisionExit2D ist dazu da, dass man keine Doppelsprünge macht in dem man die Taste wiederholt betätigt.
-OnCollisionEnter2D ist dazu da, dass man wieder springen kann, wenn man landet.
 
 `Video  :`
-[Video](https://github.com/Lennard8148/LA1500-/blob/main/LA1500-Video.mp4)
+
 ## Verifikation
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
