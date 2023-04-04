@@ -18,7 +18,25 @@ Wir haben gelernt wie man die Figur sich so bewegen lässt wie in Mario.
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
+
+
+```
+        private void button1_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Image = new Bitmap(@"C:\Users\nicla\source\repos\TeamPenutExample\Pic1.jpg");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Image = new Bitmap(@"C:\Users\nicla\source\repos\TeamPenutExample\Pic2.jpg");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Image = new Bitmap(@"C:\Users\nicla\source\repos\TeamPenutExample\Pic3.gif");
+        }
+ ```
+
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
