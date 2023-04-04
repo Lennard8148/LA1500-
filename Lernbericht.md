@@ -64,7 +64,7 @@ Ausserdem kann unser Chrakter sprinten. Um dies zu erreichen, erhöhen wir die B
 
 * `Code:` Dieser Code ist ein Beispiel, denn man für das Programm benutzen kann.
 
-* `Gif:` Das Video dient zur Demonstration des Programmes.
+* `Video:` Das Video dient zur Demonstration des Programmes.
 
 # Reflexion zum Arbeitsprozess
 
