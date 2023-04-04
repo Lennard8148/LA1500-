@@ -14,9 +14,11 @@ Wir haben gelernt wie man die Figur sich so bewegen lässt wie in Mario.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+`Text:`
 
 Wir haben gelernt wie man die Tastensteuerungen programmiert um die Figur so zu bewegen wie in Mario.
+
+`Code:`
 
 ```
     {
@@ -55,6 +57,7 @@ Wir haben gelernt wie man die Tastensteuerungen programmiert um die Figur so zu 
 OnCollisionExit2D ist dazu da, dass man keine Doppelsprünge macht in dem man die Taste wiederholt betätigt.
 OnCollisionEnter2D ist dazu da, dass man wieder springen kann, wenn man landet.
 
+`Gif:`
 
 ## Verifikation
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
@@ -67,6 +70,6 @@ OnCollisionEnter2D ist dazu da, dass man wieder springen kann, wenn man landet.
 
 👍In unserer Gruppenarbeit haben wir kompakt und gezielt gearbeitet, wenn ein Ziel als Gruppe zu erreichen war.
 
-👎 wir hatten viele technische Probleme was dazu führte das wir Arbeit verloren oder Arbeit nicht alle machen konnten.
+👎 Bei unserer Gruppe hatten wir das Problem, dass wir Datenverlust erlitten haben und dadurch sind bestimmte Sachen verloren gegangen. Zudem brauchten wir einige Zeit, um zu entscheiden, welches Thema wir nehmen wollen.
 
 **VBV**: 
